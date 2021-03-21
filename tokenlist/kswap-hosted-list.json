@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://static.kswap.finance/tokenlist/logos/KST.png",
+  "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/KST.png",
   "keywords": [
     "kswap",
     "default"
@@ -19,7 +19,7 @@
       "name": "Tale Oracle",
       "symbol": "KTO",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5.png"
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5.png"
     },
     {
       "chainId": 65,
@@ -27,7 +27,7 @@
       "name": "GAP Share",
       "symbol": "GAPS",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x50a7ab8ab39a587d028ddbdc8587e0689932e8db.png"
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x50a7ab8ab39a587d028ddbdc8587e0689932e8db.png"
     },
     {
       "chainId": 65,
@@ -35,7 +35,7 @@
       "name": "Lemond Money",
       "symbol": "LEMD",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xe667d8bd182d165d2e71cf72315bd117f6940094.png"
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0xe667d8bd182d165d2e71cf72315bd117f6940094.png"
     },
     {
       "chainId": 65,
@@ -43,7 +43,7 @@
       "name": "GAP Cash",
       "symbol": "GAC",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x20398de20cbc7b5305c84fda8cf1502939cd0a63.png"
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x20398de20cbc7b5305c84fda8cf1502939cd0a63.png"
     },
     {
       "chainId": 65,
@@ -51,7 +51,7 @@
       "name": "SupremeX",
       "symbol": "SXC",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x29728d6a1d3b07a1906ed2efce37d7714b0c7eba.png"
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x29728d6a1d3b07a1906ed2efce37d7714b0c7eba.png"
     },
     {
       "chainId": 65,
@@ -59,7 +59,7 @@
       "name": "WePiggy",
       "symbol": "WPC",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x9115d528ce681d862d9ab28714f8bd8d150c1261.png"
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x9115d528ce681d862d9ab28714f8bd8d150c1261.png"
     },
     {
        "chainId": 65,
@@ -67,7 +67,7 @@
       "name": "Spiral X",
       "symbol": "SPX",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xfbd588c72b438fad4cf7cd879c8f730faa213da0.png"        
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0xfbd588c72b438fad4cf7cd879c8f730faa213da0.png"        
     },
     {
        "chainId": 65,
@@ -75,7 +75,7 @@
       "name": "AntFarm Finance",
       "symbol": "AFI",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x9936bca1ee17d0fb333442881bf29bd7cb528f22.png"        
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x9936bca1ee17d0fb333442881bf29bd7cb528f22.png"        
     },
     {
       "chainId": 65,
@@ -83,7 +83,7 @@
       "name": "SuperBond",
       "symbol": "SCB",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xf80fbd5f98fb2db09131ff9034d24258d5efa364.jpg"        
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0xf80fbd5f98fb2db09131ff9034d24258d5efa364.jpg"        
     },
     {
        "chainId": 65,
@@ -91,7 +91,7 @@
       "name": "SuperCash",
       "symbol": "SCC",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x5873e72d1c8f23b3ed2cee988d1e679425fdef4c.jpg"        
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x5873e72d1c8f23b3ed2cee988d1e679425fdef4c.jpg"        
     },
     {
        "chainId": 65,
@@ -99,7 +99,7 @@
       "name": "SuperShare",
       "symbol": "SCS",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x679022682bc5928c2fd179e98f56843189f04a94.jpg"        
+      "logoURI": "https://kswap-finance.github.io/static/tokenlist/logos/0x679022682bc5928c2fd179e98f56843189f04a94.jpg"        
     }
   ]
 }
