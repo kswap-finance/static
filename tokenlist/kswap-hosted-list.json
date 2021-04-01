@@ -1,10 +1,10 @@
 {
   "name": "KSwap Hosted List",
-  "timestamp": "2021-03-25T20:57:10.982Z",
+  "timestamp": "2021-03-29T16:57:10.982Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 22
+    "patch": 24
   },
   "tags": {},
   "logoURI": "https://static.kswap.finance/tokenlist/logos/KST.png",
@@ -13,6 +13,22 @@
     "default"
   ],
   "tokens": [
+    {
+      "chainId": 65,
+      "address":"0xb4df33f15bd6878c6a25ed73e088c9d89b35b2b8",
+      "name": "ORG",
+      "symbol": "ORG",
+      "decimals": 18,
+      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xb4df33f15bd6878c6a25ed73e088c9d89b35b2b8.png"
+    },
+    {
+      "chainId": 65,
+      "address": "0x339dc60e47c3a9c7cea73144488b7f85b3a3ab8a",
+      "name": "TTI",
+      "symbol": "TTI",
+      "decimals": 18,
+      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x339dc60e47c3a9c7cea73144488b7f85b3a3ab8a.png"
+    },
     {
       "chainId": 65,
       "address": "0x813d9ae3aa2925ac97c4bb70d1d1e0d7e106b280",
