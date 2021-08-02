@@ -37,6 +37,14 @@
       "decimals": 18,
       "logoURI": "https://static.kswap.finance/tokenlist/logos/0x813d9ae3aa2925ac97c4bb70d1d1e0d7e106b280.png"
     },
+     {
+      "chainId": 65,
+      "address": "0xd1b97219899c76c25bb7e35ac440c0909520ad1e",
+      "name": "MagicBird",
+      "symbol": "MGB",
+      "decimals": 9,
+      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xd1b97219899c76c25bb7e35ac440c0909520ad1e.png"
+    },
     {
       "chainId": 65,
       "address": "0xb3f05d4979f00e4cf743ee35ccb4e27a9362f633",
