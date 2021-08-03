@@ -1,0 +1,19 @@
+{
+  "projectName": "Baby TITAN",
+  "synopsisEN": "Everyone has to buy in the open market to ensure fair and complete distribution. The development team does not have any tokens and cannot dump them on the community.",
+  "synopsisCN": "每个人都必须在公开市场上购买，以确保公平完整的分配。开发团队没有任何代币，不能在社区上倾倒。",
+  "website": "http://babytitan.xyz",
+  "logo": "http://babytitan.xyz/wp-content/uploads/2021/08/logo-1.png",
+  "twitter": " ",
+  "medium": " ",
+  "telegram": "https://t.me/ags888888",
+  "github": " ",
+  "discord": "",
+  "auditReports": "",
+  "time": "",
+  "token": {
+    "symbol": "KIP20",
+    "decimals": 9,
+    "address": "0xe87d79c3f7c7b56b6b5f1b8e0a7e4d78a3efb6fd"
+  }
+}
