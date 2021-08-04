@@ -1,1809 +1,1812 @@
 {
-  "tvl": 4265568885.2238517,
-  "volume24h": 2886088093.697769,
-  "fee24h": 8658264.281093307,
-  "userCount": 131094,
-  "txCount": 2318393,
+  "tvl": 503774729.0174987,
+  "volume24h": 55873647.239950895,
+  "fee24h": 167620.94171985268,
+  "userCount": 17459,
+  "txCount": 795328,
   "pools": [
     {
-      "poolAddress": "0x6962a267598ed3ccf77257db1e9999688392486c",
-      "totalLiquidity": 289126606.8812194,
-      "volume24h": 1149276415.8788986,
-      "fee24h": 3447829.247636696,
+      "poolAddress": "0xd346967e8874b9c4dcdd543a88ae47ee8c8bd21f",
+      "totalLiquidity": 14349921.447140627,
+      "volume24h": 12519981.831320733,
+      "fee24h": 37559.9454939622,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "427790.829315483840690037"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "146373183.8017824351"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x4fbbe7f61d2d0b281313bb94c808cc85245987aa",
-      "totalLiquidity": 1034600082.9977424,
-      "volume24h": 380154344.2054091,
-      "fee24h": 1140463.0326162274,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "1435583.01235393863170015"
+          "tokenAmount": "7174960.723570313563802951"
         },
         {
-          "tokenAddress": "0x64542576ae2e77d847439cca981d86e301fdbae7",
-          "tokenSymbol": "SPX",
-          "tokenAmount": "69373.914425706813650434"
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "88830.850859631776365792"
         }
       ]
     },
     {
-      "poolAddress": "0xdf8010c2141042e0793dd0099241fba396d25209",
-      "totalLiquidity": 264757169.65690362,
-      "volume24h": 189680085.23233986,
-      "fee24h": 569040.2556970196,
+      "poolAddress": "0xe611e389c51b5772a5fd715b8d638d9c98b640ba",
+      "totalLiquidity": 85629772.78632613,
+      "volume24h": 8600619.207256347,
+      "fee24h": 25801.857621769042,
       "tokens": [
         {
-          "tokenAddress": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "42814886.393163065430011629"
+        },
+        {
+          "tokenAddress": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
           "tokenSymbol": "ETHK",
-          "tokenAmount": "13056.3768456167"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "134003814.9675340443"
+          "tokenAmount": "17188.813800553302887858"
         }
       ]
     },
     {
-      "poolAddress": "0x147608dfeeeb05fd149784b9b740f71babe8b69c",
-      "totalLiquidity": 257476967.87418786,
-      "volume24h": 182147650.454731,
-      "fee24h": 546442.951364193,
+      "poolAddress": "0x7d7b8526852e7ed0380351a56517b381dd3516a3",
+      "totalLiquidity": 114473137.5770976,
+      "volume24h": 7777717.783237845,
+      "fee24h": 23333.153349713535,
       "tokens": [
         {
-          "tokenAddress": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+          "tokenAddress": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
           "tokenSymbol": "BTCK",
-          "tokenAmount": "2122.0198997664"
+          "tokenAmount": "1507.094095287669155864"
         },
         {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+          "tokenSymbol": "ETHK",
+          "tokenAmount": "22933.186289621264094982"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x84ee6a98990010fe87d2c79822763fca584418e9",
+      "totalLiquidity": 4772009.127333938,
+      "volume24h": 7287846.89509663,
+      "fee24h": 21863.54068528989,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "130363564.7379707146"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x11b73e0e2dc590c2fe486204435cebf3067834e0",
-      "totalLiquidity": 250492575.55035368,
-      "volume24h": 177671662.2481246,
-      "fee24h": 533014.9867443738,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "363028.584534877282436613"
+          "tokenAmount": "2386004.563666969167979599"
         },
         {
-          "tokenAddress": "0xda9d14072ef2262c64240da3a93fea2279253611",
-          "tokenSymbol": "OKB",
-          "tokenAmount": "29785.2296605814"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x71b9d93a50e7151aebba7316b843a4b36afc4ab7",
-      "totalLiquidity": 104057304.02214642,
-      "volume24h": 161369968.11043072,
-      "fee24h": 484109.90433129214,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "14517733.7662197261"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "52677879.6986812584"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc23e8ff4b6a7e6c29b849808d2b50f667fe3e527",
-      "totalLiquidity": 168907926.4263894,
-      "volume24h": 111019252.83642769,
-      "fee24h": 333057.75850928307,
-      "tokens": [
-        {
-          "tokenAddress": "0xda9d14072ef2262c64240da3a93fea2279253611",
-          "tokenSymbol": "OKB",
-          "tokenAmount": "19667.8798653102"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "85439775.103652778"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x4c5105a841034e32e30e188bbefad7002075c0b6",
-      "totalLiquidity": 31337331.034439005,
-      "volume24h": 87398640.11902785,
-      "fee24h": 262195.92035708355,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "50839.453515902599089176"
-        },
-        {
-          "tokenAddress": "0xe667d8bd182d165d2e71cf72315bd117f6940094",
-          "tokenSymbol": "LEMD",
-          "tokenAmount": "28.058129081415626011"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x5ec9f8f4c5d76b054895938abf228d88cb3870bf",
-      "totalLiquidity": 299841592.31187224,
-      "volume24h": 77475385.90888974,
-      "fee24h": 232426.15772666922,
-      "tokens": [
-        {
-          "tokenAddress": "0x679022682bc5928c2fd179e98f56843189f04a94",
-          "tokenSymbol": "SCS",
-          "tokenAmount": "17870.896786832411518357"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "151761394.4423098827"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x8a3e1f36e6e50d734c2d4ef2f8339d0342df652e",
-      "totalLiquidity": 440151487.2245625,
-      "volume24h": 74827937.4088397,
-      "fee24h": 224483.8122265191,
-      "tokens": [
-        {
-          "tokenAddress": "0x5873e72d1c8f23b3ed2cee988d1e679425fdef4c",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "14752.690283255271310461"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "222844319.2476343937"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x4106cde90d49a49907b08aa6f39439d049664a73",
-      "totalLiquidity": 234733973.000878,
-      "volume24h": 42336668.94023228,
-      "fee24h": 127010.00682069683,
-      "tokens": [
-        {
-          "tokenAddress": "0x97019205d81ed9302f349f18116fe3ddec37d384",
+          "tokenAddress": "0xab0d1578216a545532882e420a8c61ea07b00b12",
           "tokenSymbol": "KST",
-          "tokenAmount": "27144123.84980558578693481"
-        },
+          "tokenAmount": "3297619.126283531912762295"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x89824289ae1d431aef91bb39d666f6d0f635e1b9",
+      "totalLiquidity": 27695822.037497792,
+      "volume24h": 4084342.890084982,
+      "fee24h": 12253.028670254946,
+      "tokens": [
         {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "118799353.1720433344"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x0179d906003f5e6e74652ec24cfb90c80f9465ff",
-      "totalLiquidity": 44294709.095522285,
-      "volume24h": 34466136.07096267,
-      "fee24h": 103398.40821288801,
-      "tokens": [
-        {
-          "tokenAddress": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
-          "tokenSymbol": "BTCK",
-          "tokenAmount": "507.542880392"
+          "tokenAmount": "13847911.01874889650451682"
         },
         {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "68714038.6594133165"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x0b02c13716100504e58e3b632f17c9f455752086",
-      "totalLiquidity": 20928453.18303812,
-      "volume24h": 26836174.527330875,
-      "fee24h": 80508.52358199263,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "35493664.6314984606"
-        },
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "3205002.5695802295"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x5cd523f3620701c597f48a20292e93d69a14bffd",
-      "totalLiquidity": 157700095.24919236,
-      "volume24h": 22982312.704458237,
-      "fee24h": 68946.93811337471,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "21773535.7748816342"
-        },
-        {
-          "tokenAddress": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
-          "tokenSymbol": "ETHK",
-          "tokenAmount": "7673.5332270391"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xa1f306cfb32d7b145c54ad19494d6d6385ede660",
-      "totalLiquidity": 148510385.46802622,
-      "volume24h": 22858607.667985655,
-      "fee24h": 68575.82300395696,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "19932077.1476915093"
-        },
-        {
-          "tokenAddress": "0x64542576ae2e77d847439cca981d86e301fdbae7",
-          "tokenSymbol": "SPX",
-          "tokenAmount": "9733.652907669867003019"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x36a1427874584d1fc0c90c63f6494923c441b6f7",
-      "totalLiquidity": 12857424.521909479,
-      "volume24h": 22733414.84664333,
-      "fee24h": 68200.24453992999,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "19155.378974664188530878"
-        },
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "1781106.1227610995"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x3405ae7e0e06a3f367ee9b6572746ed33b0593f8",
-      "totalLiquidity": 13068545.336526606,
-      "volume24h": 20371967.363009214,
-      "fee24h": 61115.902089027644,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "20708150.4010042839"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "6618495.2052790252"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x5927deec1d204c3f166fcca4358e7880b7e9eb10",
-      "totalLiquidity": 31272910.19709036,
-      "volume24h": 12112712.96039331,
-      "fee24h": 36338.138881179926,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "45848.024488719894186795"
-        },
-        {
-          "tokenAddress": "0x97019205d81ed9302f349f18116fe3ddec37d384",
-          "tokenSymbol": "KST",
-          "tokenAmount": "3645991.889653148541006715"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc0c684f33af22fb361a87fc0f54ee407d2a67605",
-      "totalLiquidity": 21265260.682982527,
-      "volume24h": 7857826.079933047,
-      "fee24h": 23573.478239799144,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "31212.040215344669809467"
-        },
-        {
-          "tokenAddress": "0x600d553093999655962264daa68704e213acb698",
-          "tokenSymbol": "GAC",
-          "tokenAmount": "236354324.748281652783199389"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x8bc968c40469509656d2e428d000036f15aa504e",
-      "totalLiquidity": 13745535.314292723,
-      "volume24h": 6915854.224499125,
-      "fee24h": 20747.562673497374,
-      "tokens": [
-        {
-          "tokenAddress": "0x17faca6174a52a365e343707fa14239ae2df660c",
-          "tokenSymbol": "GAPS",
-          "tokenAmount": "1956.177476454248729233"
-        },
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "19958.632683883861777011"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xb85a34cdaaa5789092390d7eb1d2d4adcf7e8ab0",
-      "totalLiquidity": 21605325.27858421,
-      "volume24h": 5229829.729979217,
-      "fee24h": 15689.48918993765,
-      "tokens": [
-        {
-          "tokenAddress": "0x600d553093999655962264daa68704e213acb698",
-          "tokenSymbol": "GAC",
-          "tokenAmount": "259139731.539872153975719511"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "10938010.2492180606"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x977ed53766c268c1e7412534a2181d9ff33bec6b",
-      "totalLiquidity": 9110462.255569598,
-      "volume24h": 4881541.9708788395,
-      "fee24h": 14644.625912636518,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "1302595.6915207107"
-        },
-        {
-          "tokenAddress": "0xd616388f6533b6f1c31968a305fbee1727f55850",
-          "tokenSymbol": "LTCK",
-          "tokenAmount": "15566.6759499687"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x67d3fed75fa0e28ae6126a6afa7813a79e2952ae",
-      "totalLiquidity": 14778513.753589753,
-      "volume24h": 4742850.149312109,
-      "fee24h": 14228.550447936326,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "2026979.3335778733"
-        },
-        {
-          "tokenAddress": "0xda9d14072ef2262c64240da3a93fea2279253611",
+          "tokenAddress": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
           "tokenSymbol": "OKB",
-          "tokenAmount": "1659.4916612748"
+          "tokenAmount": "800019.990616745201921977"
         }
       ]
     },
     {
-      "poolAddress": "0xc64d1a3c60b25d10e70abe1b6b069c1177e46c98",
-      "totalLiquidity": 1803459.3675323003,
-      "volume24h": 4417802.853804004,
-      "fee24h": 13253.408561412014,
+      "poolAddress": "0x2a20f39354702fadf7d2087edb8c0730bca87ca7",
+      "totalLiquidity": 67472244.01271795,
+      "volume24h": 3280918.3017928004,
+      "fee24h": 9842.754905378402,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "2663.994575669258768903"
-        },
-        {
-          "tokenAddress": "0x5873e72d1c8f23b3ed2cee988d1e679425fdef4c",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "53.035096701906421974"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x020c830e7e84157b3a2b3c9464dbd88925627b38",
-      "totalLiquidity": 10642113.994296579,
-      "volume24h": 4350819.257017343,
-      "fee24h": 13052.45777105203,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "15442.830778014224282144"
-        },
-        {
-          "tokenAddress": "0x9446e30cfbd03f96105546560904cac7034fc2e1",
-          "tokenSymbol": "KOS",
-          "tokenAmount": "1169091.691936807962728883"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x0e649b65e91e124e9101f482952582800cd99b5e",
-      "totalLiquidity": 27424123.885239948,
-      "volume24h": 3661488.7391102016,
-      "fee24h": 10984.466217330604,
-      "tokens": [
-        {
-          "tokenAddress": "0xcf93f0c5effa8761481e9de2151664f62e77e152",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "112697.771646264523697092"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "13877446.2134449677"
+          "tokenAmount": "33736122.006358971533422618"
+        },
+        {
+          "tokenAddress": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+          "tokenSymbol": "BTCK",
+          "tokenAmount": "888.538875643601857457"
         }
       ]
     },
     {
-      "poolAddress": "0x54026f21e840c5a34c410cbc3f22a449f1d5fd11",
-      "totalLiquidity": 44667362.94919346,
-      "volume24h": 3606052.690001577,
-      "fee24h": 10818.158070004733,
+      "poolAddress": "0x0bf437af2e0df38482d90b63276ce86c5d5ab10a",
+      "totalLiquidity": 641779.9105722302,
+      "volume24h": 3002671.8772826227,
+      "fee24h": 9008.015631847868,
       "tokens": [
         {
-          "tokenAddress": "0xb3f05d4979f00e4cf743ee35ccb4e27a9362f633",
-          "tokenSymbol": "OFI",
-          "tokenAmount": "180585.211287518815547757"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "22622379.9252038736"
+          "tokenAmount": "320889.955286115132660691"
+        },
+        {
+          "tokenAddress": "0x82ce2bf9729d92d5b6aa34031b1c7c68ce0adab9",
+          "tokenSymbol": "PGO",
+          "tokenAmount": "1588926.617077456060215026"
         }
       ]
     },
     {
-      "poolAddress": "0xca8c5aa8bbc12029a9f732aacd964cbd7a20cf7d",
-      "totalLiquidity": 19012400.39215492,
-      "volume24h": 3469986.2744382136,
-      "fee24h": 10409.95882331464,
+      "poolAddress": "0xaea843a6715d091f7a5644ed4fcca479820bd18a",
+      "totalLiquidity": 14019548.730662767,
+      "volume24h": 2818334.1875925064,
+      "fee24h": 8455.00256277752,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
           "tokenSymbol": "WOKT",
-          "tokenAmount": "27869.825432810685470392"
+          "tokenAmount": "86999.580881469158546039"
         },
         {
-          "tokenAddress": "0xcf93f0c5effa8761481e9de2151664f62e77e152",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "78809.833143982146211004"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc4e35374477f10343278c806db6b46f28aceb3d9",
-      "totalLiquidity": 19716968.41346858,
-      "volume24h": 3373231.729516506,
-      "fee24h": 10119.695188549518,
-      "tokens": [
-        {
-          "tokenAddress": "0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5",
-          "tokenSymbol": "KTO",
-          "tokenAmount": "420330.489721471329416985"
-        },
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "29900.166257135946378962"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x0ad1edaeb14dcceb4ae98a7d50f00fa1d369db18",
-      "totalLiquidity": 10845055.190819338,
-      "volume24h": 2894421.204650022,
-      "fee24h": 8683.263613950066,
-      "tokens": [
-        {
-          "tokenAddress": "0x17faca6174a52a365e343707fa14239ae2df660c",
-          "tokenSymbol": "GAPS",
-          "tokenAmount": "1520.626816416495471016"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "5490216.7259069112"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x1bfb784dd3adb6032a0a57cf1913b75b9f2ee618",
-      "totalLiquidity": 9912163.948430305,
-      "volume24h": 2539693.244768345,
-      "fee24h": 7619.079734305034,
-      "tokens": [
-        {
-          "tokenAddress": "0x9446e30cfbd03f96105546560904cac7034fc2e1",
-          "tokenSymbol": "KOS",
-          "tokenAmount": "1065049.753605073471116033"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "5016793.8439473616"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x237f4bf07d5ffe83273595ec2d284c3c03bad69b",
-      "totalLiquidity": 18096628.580269173,
-      "volume24h": 2464303.941030279,
-      "fee24h": 7392.911823090836,
-      "tokens": [
-        {
-          "tokenAddress": "0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5",
-          "tokenSymbol": "KTO",
-          "tokenAmount": "401599.59128352564967144"
-        },
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "2471332.1822296441"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x61b684418f88fadbb2bfbe9b09ce61f91b4a8783",
-      "totalLiquidity": 10066534.680268662,
-      "volume24h": 2306030.422139764,
-      "fee24h": 6918.091266419292,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "14886.450064926157429359"
-        },
-        {
-          "tokenAddress": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
-          "tokenSymbol": "ETHK",
-          "tokenAmount": "490.9480376954"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x901613ee588b56aac150b459fa333cdcac37a862",
-      "totalLiquidity": 24432761.22815536,
-      "volume24h": 2259928.482444465,
-      "fee24h": 6779.7854473333955,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "36675.693837365735186715"
-        },
-        {
-          "tokenAddress": "0x29728d6a1d3b07a1906ed2efce37d7714b0c7eba",
-          "tokenSymbol": "SXC",
-          "tokenAmount": "1199283.381829940497740408"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x7bb3fa8f664602f938db6f08d6cc992a57a817ae",
-      "totalLiquidity": 2490464.0405080193,
-      "volume24h": 2221734.5426962227,
-      "fee24h": 6665.203628088668,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "3549.8910197831368139"
-        },
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "4081802.6713652764"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xd48ba70c743960c1102a10c8bf5825ea80a00546",
-      "totalLiquidity": 21585679.86446415,
-      "volume24h": 2156746.3301626053,
-      "fee24h": 6470.2389904878155,
-      "tokens": [
-        {
-          "tokenAddress": "0x6a9f94cb64b0c28921b94cb1414ceaa4a69d4704",
-          "tokenSymbol": "ADAM",
-          "tokenAmount": "52749.63528691"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "10907182.033897772"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xf884c5f1e00026872aaed557241d0ad02b487ac4",
-      "totalLiquidity": 12235756.151569402,
-      "volume24h": 1796246.361272961,
-      "fee24h": 5388.739083818883,
-      "tokens": [
-        {
-          "tokenAddress": "0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5",
-          "tokenSymbol": "KTO",
-          "tokenAmount": "269320.590752207746585391"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "6192287.1092664697"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x80e0add1205d2e42bd8499c0c0d82e2f860df011",
-      "totalLiquidity": 4963342.864505442,
-      "volume24h": 1742094.0196886957,
-      "fee24h": 5226.282059066087,
-      "tokens": [
-        {
-          "tokenAddress": "0xd616388f6533b6f1c31968a305fbee1727f55850",
-          "tokenSymbol": "LTCK",
-          "tokenAmount": "8883.9925843707"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "2517159.1744343239"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xd7e70450c5116ed0dbf752e1b9ad52d5b970fee1",
-      "totalLiquidity": 5429237.034514792,
-      "volume24h": 1735941.3040554784,
-      "fee24h": 5207.823912166436,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "7700.519041354172547518"
-        },
-        {
-          "tokenAddress": "0xfbd588c72b438fad4cf7cd879c8f730faa213da0",
-          "tokenSymbol": "SPX",
-          "tokenAmount": "1116.214611335273455939"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x0eef809443ffe08d73b0656dd45fbf7c98e93dab",
-      "totalLiquidity": 2254207.357559564,
-      "volume24h": 1713282.567505896,
-      "fee24h": 5139.847702517688,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "320170.1800271121"
-        },
-        {
-          "tokenAddress": "0x72f8fa5da80dc6e20e00d02724cf05ebd302c35f",
-          "tokenSymbol": "DOTK",
-          "tokenAmount": "13541.4342236782"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc5eda4504e3261ba59ff87c6b844a349f44fbe7c",
-      "totalLiquidity": 22328736.966491446,
-      "volume24h": 1652858.5037424937,
-      "fee24h": 4958.575511227481,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "19917803.8426487701"
-        },
-        {
-          "tokenAddress": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
-          "tokenSymbol": "ETHK",
-          "tokenAmount": "1531.8498862031"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x2dfba4bc5fc2e0d2bc69d96fe43db861ce92a7b4",
-      "totalLiquidity": 8219408.765934336,
-      "volume24h": 1330296.358774513,
-      "fee24h": 3990.889076323539,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "13535293.585846144"
-        },
-        {
-          "tokenAddress": "0xda9d14072ef2262c64240da3a93fea2279253611",
+          "tokenAddress": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
           "tokenSymbol": "OKB",
-          "tokenAmount": "1257.0830442358"
+          "tokenAmount": "403995.78045397148234436"
         }
       ]
     },
     {
-      "poolAddress": "0xa5350b0f7efe3d1a9ebb1a2c6dcc4f4342765cf6",
-      "totalLiquidity": 11342949.568397708,
-      "volume24h": 1309366.43936719,
-      "fee24h": 3928.09931810157,
+      "poolAddress": "0xa25da5a44a65ee9bd4ea61f946cbcf15512fd52e",
+      "totalLiquidity": 3593121.3163712774,
+      "volume24h": 2033131.6159896534,
+      "fee24h": 6099.394847968961,
       "tokens": [
         {
-          "tokenAddress": "0x29728d6a1d3b07a1906ed2efce37d7714b0c7eba",
-          "tokenSymbol": "SXC",
-          "tokenAmount": "567230.054034318677849496"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "5742892.6455322024"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xa2e2e71f374f9a99cccc90d3dcfbd1e3c337a826",
-      "totalLiquidity": 1172719.0831748873,
-      "volume24h": 1261475.942512163,
-      "fee24h": 3784.427827536489,
-      "tokens": [
-        {
-          "tokenAddress": "0x82a3a23b1be0857e0a9eb0379f3d90ae2db0bf46",
-          "tokenSymbol": "ADAM",
-          "tokenAmount": "11965.96086095"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "598534.22821804"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xb8884a2a28ddd40eca3ff1c83cc2017b9637a3c4",
-      "totalLiquidity": 4431748.910811251,
-      "volume24h": 847317.9183550179,
-      "fee24h": 2541.953755065054,
-      "tokens": [
-        {
-          "tokenAddress": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
-          "tokenSymbol": "BTCK",
-          "tokenAmount": "36.2646717646"
-        },
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
           "tokenSymbol": "WOKT",
-          "tokenAmount": "6445.321134853560190585"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xbc3b981210e400edd5de698c79995a561fadd5c7",
-      "totalLiquidity": 10072535.711922387,
-      "volume24h": 782711.2486369908,
-      "fee24h": 2348.1337459109723,
-      "tokens": [
-        {
-          "tokenAddress": "0x20398de20cbc7b5305c84fda8cf1502939cd0a63",
-          "tokenSymbol": "GAC",
-          "tokenAmount": "12625578.198810809814855126"
+          "tokenAmount": "22186.064021631603870829"
         },
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "14956.118904538568607553"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfad6f5082a861c9fe0626418bec140ec10a9ff35",
-      "totalLiquidity": 2412596.0097107263,
-      "volume24h": 772628.5228687823,
-      "fee24h": 2317.885568606347,
-      "tokens": [
-        {
-          "tokenAddress": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
-          "tokenSymbol": "BTCK",
-          "tokenAmount": "20.9878865774"
-        },
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "329198.0948044254"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xa52ea744fe2a708fe4ebacf46ea14943cb232320",
-      "totalLiquidity": 1224106.8981984502,
-      "volume24h": 690083.6317559481,
-      "fee24h": 2070.250895267844,
-      "tokens": [
-        {
-          "tokenAddress": "0x72f8fa5da80dc6e20e00d02724cf05ebd302c35f",
-          "tokenSymbol": "DOTK",
-          "tokenAmount": "7479.1708852827"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "618971.8026565097"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xedf616e45d8ab584137fccf189102c174d0b4e01",
-      "totalLiquidity": 1760785.6094333013,
-      "volume24h": 617409.4640189838,
-      "fee24h": 1852.2283920569514,
-      "tokens": [
-        {
-          "tokenAddress": "0x813d9ae3aa2925ac97c4bb70d1d1e0d7e106b280",
-          "tokenSymbol": "TPT",
-          "tokenAmount": "4880.3106"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "890619.8369502383"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x595269dca2ac2b79e9a2df4130940188ebc3ff62",
-      "totalLiquidity": 4037886.302664462,
-      "volume24h": 617080.6581637859,
-      "fee24h": 1851.241974491358,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "5669.425033154484372833"
-        },
-        {
-          "tokenAddress": "0xd616388f6533b6f1c31968a305fbee1727f55850",
-          "tokenSymbol": "LTCK",
-          "tokenAmount": "6987.2739665383"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x1ef99ec5d840582ae25d8f386fc3cbbca3a56872",
-      "totalLiquidity": 12789950.82023932,
-      "volume24h": 515262.8263310045,
-      "fee24h": 1545.7884789930135,
-      "tokens": [
-        {
-          "tokenAddress": "0x20398de20cbc7b5305c84fda8cf1502939cd0a63",
-          "tokenSymbol": "GAC",
-          "tokenAmount": "17668244.419987981380435041"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "6486359.2631766308"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xae187e712ba026bf477d527a713f0d9cf25c5fab",
-      "totalLiquidity": 172276.62510291926,
-      "volume24h": 506244.2235886548,
-      "fee24h": 1518.7326707659643,
-      "tokens": [
-        {
-          "tokenAddress": "0x339dc60e47c3a9c7cea73144488b7f85b3a3ab8a",
-          "tokenSymbol": "TTI",
-          "tokenAmount": "1816.799184790872622732"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "87194.1060185025"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x9573b8109c55a472fe8421e23879c3ab4701880f",
-      "totalLiquidity": 936261.9601717712,
-      "volume24h": 498278.915286988,
-      "fee24h": 1494.8367458609641,
-      "tokens": [
-        {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "126111.1067004392"
-        },
-        {
-          "tokenAddress": "0x97019205d81ed9302f349f18116fe3ddec37d384",
+          "tokenAddress": "0xab0d1578216a545532882e420a8c61ea07b00b12",
           "tokenSymbol": "KST",
-          "tokenAmount": "107203.234770802828823562"
+          "tokenAmount": "2489282.675386619748752672"
         }
       ]
     },
     {
-      "poolAddress": "0x261a120daea4266dc1f54b7d72588b3212180d7f",
-      "totalLiquidity": 909309.5226440623,
-      "volume24h": 480785.88675142825,
-      "fee24h": 1442.3576602542848,
+      "poolAddress": "0x10035bef4c21557bb642eb8ea14e009ffd664b7a",
+      "totalLiquidity": 1296519.4820654667,
+      "volume24h": 1949472.9470450953,
+      "fee24h": 5848.418841135286,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "1299.399217553673657981"
-        },
-        {
-          "tokenAddress": "0x72f8fa5da80dc6e20e00d02724cf05ebd302c35f",
-          "tokenSymbol": "DOTK",
-          "tokenAmount": "5645.2088357368"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc6a402dccf776bcae565c864259f29f561f6e344",
-      "totalLiquidity": 8098276.455889927,
-      "volume24h": 454403.55624244444,
-      "fee24h": 1363.2106687273333,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "11956.203098226564611406"
-        },
-        {
-          "tokenAddress": "0x679022682bc5928c2fd179e98f56843189f04a94",
-          "tokenSymbol": "SCS",
-          "tokenAmount": "453.193324471707021729"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x80595fc5ce91c82938faa3bfb720b62472d48cd2",
-      "totalLiquidity": 957507.151874309,
-      "volume24h": 414965.31425462663,
-      "fee24h": 1244.89594276388,
-      "tokens": [
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "484928.2652512451"
+          "tokenAmount": "648259.741032733308527731"
         },
         {
-          "tokenAddress": "0xe667d8bd182d165d2e71cf72315bd117f6940094",
-          "tokenSymbol": "LEMD",
-          "tokenAmount": "0.950734126476529158"
+          "tokenAddress": "0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f",
+          "tokenSymbol": "ORG",
+          "tokenAmount": "765872.986144794791036819"
         }
       ]
     },
     {
-      "poolAddress": "0x50d1d4e5d4ab76deab6f02fa47e7267082b846f4",
-      "totalLiquidity": 6646363.522888405,
-      "volume24h": 384146.2678539008,
-      "fee24h": 1152.4388035617023,
+      "poolAddress": "0x71308317e4e78ffe292a499b229bc608bd0aa036",
+      "totalLiquidity": 244360.77682705567,
+      "volume24h": 1707343.6186161593,
+      "fee24h": 5122.030855848478,
       "tokens": [
         {
-          "tokenAddress": "0x9936bca1ee17d0fb333442881bf29bd7cb528f22",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "66223.660862722507293811"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "3358534.1045398021"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xae9616e9d801a6c5fde38d44a346482f887189dc",
-      "totalLiquidity": 1988658.9656118676,
-      "volume24h": 297870.69840467675,
-      "fee24h": 893.6120952140302,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "3022.961747059890012504"
-        },
-        {
-          "tokenAddress": "0xb3f05d4979f00e4cf743ee35ccb4e27a9362f633",
-          "tokenSymbol": "OFI",
-          "tokenAmount": "7799.937195510891476918"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x058312740ccd74e9d9b277597d2cb46b0b128c34",
-      "totalLiquidity": 496810.06388244557,
-      "volume24h": 224856.32795043822,
-      "fee24h": 674.5689838513147,
-      "tokens": [
-        {
-          "tokenAddress": "0x64542576ae2e77d847439cca981d86e301fdbae7",
+          "tokenAddress": "0x20415e2d1fef61026a18d3324747bbd205c8608c",
           "tokenSymbol": "SPX",
-          "tokenAmount": "31.367164467879529841"
+          "tokenAmount": "180373.695157249445237157"
         },
         {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "251510.7138942298"
+          "tokenAmount": "122180.388413527836027442"
         }
       ]
     },
     {
-      "poolAddress": "0x3b6ffb603f3aa7dd7589b48aa1437475dc69038d",
-      "totalLiquidity": 300443.54159169854,
-      "volume24h": 120520.38783955065,
-      "fee24h": 361.56116351865194,
+      "poolAddress": "0x852a2bc66f2add3c598da0ce2e5e9d12e3c10020",
+      "totalLiquidity": 93295.98022563476,
+      "volume24h": 310454.4058676345,
+      "fee24h": 931.3632176029035,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "409.475882574743927299"
+          "tokenAddress": "0x20415e2d1fef61026a18d3324747bbd205c8608c",
+          "tokenSymbol": "SPX",
+          "tokenAmount": "69028.697079035104641685"
         },
         {
-          "tokenAddress": "0x64b0093fa34203753600e71ee252eed4c734e4fa",
-          "tokenSymbol": "NUT",
-          "tokenAmount": "0.001099120192093794"
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "499.715244062071061584"
         }
       ]
     },
     {
-      "poolAddress": "0x88b8b6c386e573721aa16b04c61f266050a64c56",
-      "totalLiquidity": 61807.53104183732,
-      "volume24h": 84138.43107919025,
-      "fee24h": 252.41529323757078,
+      "poolAddress": "0xf962ba0b022e8443a4d339eeed3f24026ffbb627",
+      "totalLiquidity": 235613.3690743832,
+      "volume24h": 155883.4870119053,
+      "fee24h": 467.65046103571586,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
           "tokenSymbol": "WOKT",
-          "tokenAmount": "91.42976420353518774"
+          "tokenAmount": "1458.526175622542039435"
         },
         {
-          "tokenAddress": "0xf6a0dc1fd1d2c0122ab075d7ef93ad79f02ccb93",
+          "tokenAddress": "0xbb25d219cbf8963ec9b8d4e01361fb529e49263e",
+          "tokenSymbol": "OKMoon",
+          "tokenAmount": "389007681766665.497173845"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x36b06c6dba4a9bc90ce1c5d7c242b8f1b8a760f2",
+      "totalLiquidity": 96468.05223474959,
+      "volume24h": 138510.2122240197,
+      "fee24h": 415.5306366720591,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "48234.026117374793239305"
+        },
+        {
+          "tokenAddress": "0x39071d9e7a52e8685f1385d6fa17babfc58ce9c3",
+          "tokenSymbol": "KLT",
+          "tokenAmount": "2948.109013129309342545"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x24aa7ec16b1965bc3e1c68de80298b16cbc6ef92",
+      "totalLiquidity": 84044.77664695779,
+      "volume24h": 56445.72995299497,
+      "fee24h": 169.3371898589849,
+      "tokens": [
+        {
+          "tokenAddress": "0x39071d9e7a52e8685f1385d6fa17babfc58ce9c3",
+          "tokenSymbol": "KLT",
+          "tokenAmount": "2566.003768101038571108"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "520.288654450473328114"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x98fd647346d648781ab2be1b04e1c402d0436ec1",
+      "totalLiquidity": 34911.416937930175,
+      "volume24h": 54413.72139581281,
+      "fee24h": 163.24116418743844,
+      "tokens": [
+        {
+          "tokenAddress": "0x148a077ead5e0f41828ea48aa45a11630031d5fa",
+          "tokenSymbol": "DoGame",
+          "tokenAmount": "9972378193.532246039738808962"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "217.697137658625065231"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x9e30a87718204466131810b9f8e064f6fb686916",
+      "totalLiquidity": 21477.6772820945,
+      "volume24h": 17059.60882836551,
+      "fee24h": 51.178826485096536,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "134.484234445301574839"
+        },
+        {
+          "tokenAddress": "0xb32c93ed363e9392d9b96d256c238f428a7f3f68",
+          "tokenSymbol": "SafeMoon",
+          "tokenAmount": "748512936968898.550783752"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x2fbe24f8da144b53756131780b840eff6b37dee0",
+      "totalLiquidity": 8219.45493007854,
+      "volume24h": 16217.300145298184,
+      "fee24h": 48.651900435894554,
+      "tokens": [
+        {
+          "tokenAddress": "0x068a773ab2d25f68196bcc67807b7442565cdd62",
+          "tokenSymbol": "OKMars",
+          "tokenAmount": "2362042308975710.62043154"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "51.466641096634217612"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xd63abfa2873e068ea26f216812f751a6aadcbabd",
+      "totalLiquidity": 44948.43661554423,
+      "volume24h": 12636.157679571275,
+      "fee24h": 37.90847303871383,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "22474.218307772117196915"
+        },
+        {
+          "tokenAddress": "0xc0c477f22eacc6fa38039c5ee097656255f6ba02",
+          "tokenSymbol": "OKTMOON",
+          "tokenAmount": "1146923853305223.320036886"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb8134e700ea7506871c77daaf84d83dcf55a64fa",
+      "totalLiquidity": 22020.576426932574,
+      "volume24h": 7372.471756572573,
+      "fee24h": 22.11741526971772,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "11010.288213466287709282"
+        },
+        {
+          "tokenAddress": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+          "tokenSymbol": "BabyDoge",
+          "tokenAmount": "6956914331462.216932957"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x66b8ef94956f34437ad366fe4af4744ee60c676c",
+      "totalLiquidity": 285849.81058837683,
+      "volume24h": 6236.680666731703,
+      "fee24h": 18.71004200019511,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "142924.905294188426631437"
+        },
+        {
+          "tokenAddress": "0x5ce01aa1528a6a0c8edecc4cee909f0a24cf54de",
+          "tokenSymbol": "BORING",
+          "tokenAmount": "8927167.970318330752601088"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb6bc97d83e0e7e9ad73c094587c890b570d6d9a0",
+      "totalLiquidity": 36585.78407018728,
+      "volume24h": 5084.266223966217,
+      "fee24h": 15.25279867189865,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "18292.892035093639552241"
+        },
+        {
+          "tokenAddress": "0xaaa54aafc4b07e520d2470d0879bcd402f9d9668",
+          "tokenSymbol": "Durian",
+          "tokenAmount": "27979378474306.077505452369032554"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x594765af2ce54aac673eaa8d0b3498c7543d9b97",
+      "totalLiquidity": 17.72314582217517,
+      "volume24h": 4709.78211105421,
+      "fee24h": 14.12934633316263,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "8.861572911087583874"
+        },
+        {
+          "tokenAddress": "0x7d566a622fbc2c752531adacf03eab8cfbf97de3",
+          "tokenSymbol": "SPX",
+          "tokenAmount": "10.665378107442012757"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xd309301bf9b66e3f234869cbda324bf13cab202d",
+      "totalLiquidity": 169812.32696804107,
+      "volume24h": 3940.185708297483,
+      "fee24h": 11.82055712489245,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "84906.163484020533458815"
+        },
+        {
+          "tokenAddress": "0xfcd4d15f09548cd90efcaf0b1d9531bba670b7b1",
+          "tokenSymbol": "CFXK",
+          "tokenAmount": "405843.744348583337846826"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x7902b366f3fa7940bf48e09329c549b7b4dc6672",
+      "totalLiquidity": 14077.9761078043,
+      "volume24h": 2446.55321427781,
+      "fee24h": 7.339659642833431,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "87.778702499998196158"
+        },
+        {
+          "tokenAddress": "0xeb9fb08f359f13e1ab0a871d543e3b773aacaa68",
+          "tokenSymbol": "OKDoge",
+          "tokenAmount": "271482404356974.543712"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x0d8836da6df3cd8cf60e6b9973402299573d8eb9",
+      "totalLiquidity": 17.45647353804798,
+      "volume24h": 2080.0721724044724,
+      "fee24h": 6.240216517213417,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.192800183235015127"
+        },
+        {
+          "tokenAddress": "0xc1f2dd893e6d7a99ad2160433f94c2d8f6f95885",
+          "tokenSymbol": "Mini KST",
+          "tokenAmount": "9487379055712.058244673281929842"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xf8b793bc184da0a09f2cef4ee9faa0dcaf0d35ba",
+      "totalLiquidity": 586.5749591602095,
+      "volume24h": 1889.757256166311,
+      "fee24h": 5.669271768498933,
+      "tokens": [
+        {
+          "tokenAddress": "0x2f4c08143f9e558e6e3b0a06a235bfb66e85d01d",
+          "tokenSymbol": "SLS",
+          "tokenAmount": "179.86991758"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "293.287479580104750765"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb996245431877d24c32cf3b77d49c70a4bea599c",
+      "totalLiquidity": 9960.795403479471,
+      "volume24h": 1642.5479096240597,
+      "fee24h": 4.927643728872179,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "4980.397701739735343182"
+        },
+        {
+          "tokenAddress": "0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986",
+          "tokenSymbol": "LTCK",
+          "tokenAmount": "36.034205115274880112"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xcdb2a9866f0770a349dba341594d5cbfcf2a02bc",
+      "totalLiquidity": 2697.740460477052,
+      "volume24h": 1617.376440376806,
+      "fee24h": 4.852129321130418,
+      "tokens": [
+        {
+          "tokenAddress": "0x02f093513b7872cdfc518e51ed67f88f0e469592",
+          "tokenSymbol": "OKFly",
+          "tokenAmount": "9600616164119.780669735"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "16.886892225112571583"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xca09fe2745579b3266c424d1ff33a22e3336a3b5",
+      "totalLiquidity": 10912.793225217532,
+      "volume24h": 1553.6608885878268,
+      "fee24h": 4.6609826657634805,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "5456.396612608766574465"
+        },
+        {
+          "tokenAddress": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
+          "tokenSymbol": "DOTK",
+          "tokenAmount": "312.87736785647701863"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xd3d589d87636fab775407021fb8e35fe9cf40129",
+      "totalLiquidity": 10463.070512106902,
+      "volume24h": 1472.1216235352476,
+      "fee24h": 4.416364870605743,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "5231.535256053451415105"
+        },
+        {
+          "tokenAddress": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
           "tokenSymbol": "FILK",
-          "tokenAmount": "18.6122336384"
+          "tokenAmount": "94.242595294764127344"
         }
       ]
     },
     {
-      "poolAddress": "0x4632bcade8f40a8fcbb87f1bd526a5ba06853d00",
-      "totalLiquidity": 7862450.243112012,
-      "volume24h": 53039.730269521475,
-      "fee24h": 159.11919080856444,
+      "poolAddress": "0x13f53ec5e6121771401f0b163b9bc1d05f49efc6",
+      "totalLiquidity": 365.60045568383816,
+      "volume24h": 1253.598998180576,
+      "fee24h": 3.760796994541728,
       "tokens": [
         {
-          "tokenAddress": "0x50a7ab8ab39a587d028ddbdc8587e0689932e8db",
-          "tokenSymbol": "GAPS",
-          "tokenAmount": "2854.325318047392483961"
+          "tokenAddress": "0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f",
+          "tokenSymbol": "ORG",
+          "tokenAmount": "215.396952437332329516"
         },
         {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "2.269732325787486165"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x2b2206ae01f0ea75f11756b090ca1814542665d4",
+      "totalLiquidity": 1.3043532434989795,
+      "volume24h": 981.6239666387012,
+      "fee24h": 2.9448718999161034,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "3975242.4485738606"
+          "tokenAmount": "0.65217662174948978"
+        },
+        {
+          "tokenAddress": "0x8d3573f24c0aa3819a2f5b02b2985dd82b487715",
+          "tokenSymbol": "FIN",
+          "tokenAmount": "3.064022659236472139"
         }
       ]
     },
     {
-      "poolAddress": "0x4205d45d656890b7efa44d54c34c64b609e38b1a",
-      "totalLiquidity": 7685161.507624932,
-      "volume24h": 41530.5506465137,
-      "fee24h": 124.59165193954111,
+      "poolAddress": "0x0bf1ab1113641e197de99e301e51e4f6230cb046",
+      "totalLiquidity": 2.214561474924633,
+      "volume24h": 777.3687379694456,
+      "fee24h": 2.332106213908337,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+          "tokenAddress": "0x10754c19741df554c6deeb47e4f6f1157a67b8c7",
+          "tokenSymbol": "NITE",
+          "tokenAmount": "1179115103.283712510683260439"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
           "tokenSymbol": "WOKT",
-          "tokenAmount": "12783.451911704778565244"
-        },
-        {
-          "tokenAddress": "0x50a7ab8ab39a587d028ddbdc8587e0689932e8db",
-          "tokenSymbol": "GAPS",
-          "tokenAmount": "2198.097715491817287581"
+          "tokenAmount": "0.024863809306874656"
         }
       ]
     },
     {
-      "poolAddress": "0x9dad7798b1db612c34cacb4f40a19a931f853a3d",
-      "totalLiquidity": 4689822.758460802,
-      "volume24h": 38594.03821121156,
-      "fee24h": 115.78211463363469,
+      "poolAddress": "0x9632df5b68e55a1ee4a9078830c648705a7398d7",
+      "totalLiquidity": 21.730895057082048,
+      "volume24h": 672.6733657265208,
+      "fee24h": 2.0180200971795625,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
           "tokenSymbol": "WOKT",
-          "tokenAmount": "7501.410505976109156532"
+          "tokenAmount": "0.269064737611555566"
         },
         {
-          "tokenAddress": "0x9936bca1ee17d0fb333442881bf29bd7cb528f22",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "46740.877063718778146876"
+          "tokenAddress": "0xaa06bc645e77be80d8eca3e6a139cffa8122fde2",
+          "tokenSymbol": "DMX",
+          "tokenAmount": "41.389848913619378623"
         }
       ]
     },
     {
-      "poolAddress": "0xaa0a30b573a8e64026b12f52e8afd4830befc839",
-      "totalLiquidity": 221967.77273951442,
-      "volume24h": 22887.062485761242,
-      "fee24h": 68.66118745728373,
+      "poolAddress": "0x3d006a77ebc3162ce7213ca2a1e932fa655e08c9",
+      "totalLiquidity": 350161.7596304405,
+      "volume24h": 668.6009691713027,
+      "fee24h": 2.005802907513908,
       "tokens": [
         {
-          "tokenAddress": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
-          "tokenSymbol": "USDK",
-          "tokenAmount": "28254.5646232782"
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "175080.879815220244920807"
         },
         {
-          "tokenAddress": "0xfbd588c72b438fad4cf7cd879c8f730faa213da0",
+          "tokenAddress": "0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4",
+          "tokenSymbol": "WING",
+          "tokenAmount": "9833.661072687"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x86c2d593c185873735bc3e05b6821d098e9e9e29",
+      "totalLiquidity": 11437.955331731437,
+      "volume24h": 623.389265347997,
+      "fee24h": 1.870167796043991,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "68.027579680916663852"
+        },
+        {
+          "tokenAddress": "0xe87d79c3f7c7b56b6b5f1b8e0a7e4d78a3efb6fd",
+          "tokenSymbol": "BabyTITAN",
+          "tokenAmount": "361759444992.15843438"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x84658a8993dd343f4c3728199aadd8a016d54e47",
+      "totalLiquidity": 7073.356502942298,
+      "volume24h": 564.0329689214117,
+      "fee24h": 1.6920989067642351,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "3536.678251471148857019"
+        },
+        {
+          "tokenAddress": "0xf55da85d9c97f49d5987103b36f68bbefe0ca5f1",
+          "tokenSymbol": "OKpeach",
+          "tokenAmount": "114573168561.329417718"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x633cb54a3a0b5a0a59df3d1fc8bc38171d587d96",
+      "totalLiquidity": 31.799063638577014,
+      "volume24h": 534.9532752962696,
+      "fee24h": 1.6048598258888087,
+      "tokens": [
+        {
+          "tokenAddress": "0x4d7cf4f0acbfe33e40e82a931dceb5dbdb57c589",
+          "tokenSymbol": "Ftc",
+          "tokenAmount": "1738333093017.703765889106902185"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.395757399622887456"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x223acfb5dd24671dfc001eb469deadb39f8fe8a2",
+      "totalLiquidity": 11.236162829164194,
+      "volume24h": 523.3734965396014,
+      "fee24h": 1.5701204896188043,
+      "tokens": [
+        {
+          "tokenAddress": "0x6727c960b1c32afeb482426739fd3d7bcdcd235c",
+          "tokenSymbol": "RedMoon",
+          "tokenAmount": "56567807.03378012088107896"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.066179228585329715"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xe9afdeac6dd24287a08c28c77f26cd902dbfceac",
+      "totalLiquidity": 709.3158359340317,
+      "volume24h": 520.5423551239946,
+      "fee24h": 1.561627065371984,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "354.657917967015880178"
+        },
+        {
+          "tokenAddress": "0x52dbe35a8305ec4d36f7909c9779712e5514163c",
+          "tokenSymbol": "ALA",
+          "tokenAmount": "19514.936078148635176422"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xeed77248f98eb0147ef6b299fcd2877b22f2bf67",
+      "totalLiquidity": 4.156276514368089,
+      "volume24h": 445.8029642717794,
+      "fee24h": 1.3374088928153383,
+      "tokens": [
+        {
+          "tokenAddress": "0x2f8eb6f75df534c4992ec79d9825c5ea4b1b2a57",
+          "tokenSymbol": "ACMD",
+          "tokenAmount": "77.823470477852537907"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "4.156276514368089072"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb95da1ef58724949b976a7c05a5b917e4803d563",
+      "totalLiquidity": 8205.216874134858,
+      "volume24h": 383.0279382175522,
+      "fee24h": 1.1490838146526567,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "45.853499557049819931"
+        },
+        {
+          "tokenAddress": "0xd57d49c65c4c67d0e224b9eec7e19ca1046a3d94",
+          "tokenSymbol": "SuperDoge",
+          "tokenAmount": "957761469244346.586487895361199035"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x9a31c4a1750a070290c1f2aec4b720a6e6368ef5",
+      "totalLiquidity": 0.9389841732592757,
+      "volume24h": 233.201483741624,
+      "fee24h": 0.699604451224872,
+      "tokens": [
+        {
+          "tokenAddress": "0x15c5fbc668a98a395f7a45d3cd03e03ebfb93a40",
+          "tokenSymbol": "PS",
+          "tokenAmount": "10121109311.808992"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.005013417514129127"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x5d8e9bc5bd2663bcd9039037c0a723f2bdca9d69",
+      "totalLiquidity": 5287.788439090423,
+      "volume24h": 145.59623530468525,
+      "fee24h": 0.4367887059140558,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "31.301642506601555085"
+        },
+        {
+          "tokenAddress": "0x938cd80526666565cd6fa5e6e32c4b8beadbc18e",
+          "tokenSymbol": "OKD",
+          "tokenAmount": "623943250075.461603333740362849"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xab0dede54cbd6550753d54798a9c76a49e20ce3c",
+      "totalLiquidity": 3257.5694133733687,
+      "volume24h": 141.53705276091932,
+      "fee24h": 0.42461115828275797,
+      "tokens": [
+        {
+          "tokenAddress": "0x1ded125804bd65822340c7a88aae9ba1740608f7",
+          "tokenSymbol": "Drin",
+          "tokenAmount": "1096797.544475710535208129"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "20.220354635767474084"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xd79420c7d6a2e79d4a31cdb86a6476f0d9d2c89b",
+      "totalLiquidity": 1504.0880607131096,
+      "volume24h": 137.22672356737894,
+      "fee24h": 0.4116801707021368,
+      "tokens": [
+        {
+          "tokenAddress": "0x1ded125804bd65822340c7a88aae9ba1740608f7",
+          "tokenSymbol": "Drin",
+          "tokenAmount": "508632.701129142444347183"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "752.044030356554761903"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xddcc36a64b1ee90661146b9f4262950f4baa57e9",
+      "totalLiquidity": 0.3384659918418781,
+      "volume24h": 116.88468294459084,
+      "fee24h": 0.3506540488337725,
+      "tokens": [
+        {
+          "tokenAddress": "0x10e5d7423bb80f35b5725c9f2152709579d95b29",
+          "tokenSymbol": "🐕BABYDOG",
+          "tokenAmount": "86323516.642666833"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.169232995920939044"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xfa6d4f7b0a39255cef368b529dcd91b959b5d8ba",
+      "totalLiquidity": 10.770819520063744,
+      "volume24h": 113.26812954769002,
+      "fee24h": 0.33980438864307005,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "10.770819520063744812"
+        },
+        {
+          "tokenAddress": "0xaa06bc645e77be80d8eca3e6a139cffa8122fde2",
+          "tokenSymbol": "DMX",
+          "tokenAmount": "21.367699918529962524"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x26a151f72d4227fb0cd308773e51abaca772a717",
+      "totalLiquidity": 341.2894271910141,
+      "volume24h": 103.69752056791913,
+      "fee24h": 0.3110925617037574,
+      "tokens": [
+        {
+          "tokenAddress": "0x606b62c8e1be43b75b76de6fd6463c2ee573201c",
+          "tokenSymbol": "pimoon",
+          "tokenAmount": "30259863477497.36318"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "1.834616566409890313"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xf951a9e2ad2dac2b33685268cf228e467fda69c3",
+      "totalLiquidity": 82.3641162798291,
+      "volume24h": 86.38781875540104,
+      "fee24h": 0.25916345626620313,
+      "tokens": [
+        {
+          "tokenAddress": "0x5d0656c736615b332a5dfa8b1419e2fdd1f87e22",
+          "tokenSymbol": "Big Pig",
+          "tokenAmount": "19170143868875.715301819998289793"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.929431017270564494"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x6e7f62f5a0dcac5c3ac38ca36e16ab2df31b5826",
+      "totalLiquidity": 17.25326721392265,
+      "volume24h": 68.04228647920627,
+      "fee24h": 0.2041268594376188,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.110173384598560965"
+        },
+        {
+          "tokenAddress": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+          "tokenSymbol": "BabyDoge",
+          "tokenAmount": "5264949912.006560306"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb8421618fcfb62fbdf74e4b0bf2aeda0aba5a1a9",
+      "totalLiquidity": 0.12708737801394251,
+      "volume24h": 67.46431362085158,
+      "fee24h": 0.20239294086255474,
+      "tokens": [
+        {
+          "tokenAddress": "0x3adf1caa3006a5231193557de4df7734fade6742",
+          "tokenSymbol": "OKBIRB",
+          "tokenAmount": "413221671015.323187492767569699"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.001362451915894759"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x344dc4a63122cbe1f588aff915d9b6f17a01d8d3",
+      "totalLiquidity": 29.500647135617342,
+      "volume24h": 64.54309608361486,
+      "fee24h": 0.19362928825084458,
+      "tokens": [
+        {
+          "tokenAddress": "0x82ce2bf9729d92d5b6aa34031b1c7c68ce0adab9",
+          "tokenSymbol": "PGO",
+          "tokenAmount": "73.278364279501649958"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.183077158582149443"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x3f78fbbceb03251e114e279d161b9bf65cd4e6e6",
+      "totalLiquidity": 2017.6839887296862,
+      "volume24h": 49.93435770849906,
+      "fee24h": 0.14980307312549718,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "10.52184477096921815"
+        },
+        {
+          "tokenAddress": "0xa26e8b5f1c8355592ed1e755e2d2aea751f3f589",
+          "tokenSymbol": "OKINU",
+          "tokenAmount": "38021816241191.751520165343226903"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x6d270c9b31cfbb68791b646a49eec218a51cd647",
+      "totalLiquidity": 405.0380784290605,
+      "volume24h": 45.5330732917466,
+      "fee24h": 0.1365992198752398,
+      "tokens": [
+        {
+          "tokenAddress": "0x0d349fd2f7e220d01b689ad01a4de9ffaa939ff3",
+          "tokenSymbol": "byba",
+          "tokenAmount": "14566904750.36369269"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "202.519039214530246225"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x29f17995dd9753a043371cb59d7bf93b4589baeb",
+      "totalLiquidity": 1030.5689553877899,
+      "volume24h": 33.83925785500429,
+      "fee24h": 0.10151777356501288,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "515.284477693894909999"
+        },
+        {
+          "tokenAddress": "0x4aa61d92e52bd89679ed78cde8e51e8e8776f6a4",
+          "tokenSymbol": "OKDoge",
+          "tokenAmount": "5149143131954120.029215264549187147"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x9ac08c1225bc4e0405c6806a1c0e5944f3ee8d3a",
+      "totalLiquidity": 5.076913437109768,
+      "volume24h": 33.77822830214268,
+      "fee24h": 0.10133468490642804,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "5.076913437109767738"
+        },
+        {
+          "tokenAddress": "0x4d7cf4f0acbfe33e40e82a931dceb5dbdb57c589",
+          "tokenSymbol": "Ftc",
+          "tokenAmount": "252719169043.179495136933875447"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x290d9be014f047a84115f6012e9e055bacb25d42",
+      "totalLiquidity": 53.39763090686807,
+      "volume24h": 19.64084292708955,
+      "fee24h": 0.058922528781268656,
+      "tokens": [
+        {
+          "tokenAddress": "0x8c5da4b1c74df4bf9fc9144d153bb9f2066ff2ac",
+          "tokenSymbol": "MiniOKTDoge",
+          "tokenAmount": "36237328729690.288769077"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.629578453012264268"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x8d5da3be8a38579504acbbf22c163c29c9128359",
+      "totalLiquidity": 18.26401942630706,
+      "volume24h": 19,
+      "fee24h": 0.057,
+      "tokens": [
+        {
+          "tokenAddress": "0x2c4c27591294c26688612f18104e261da96d97d7",
+          "tokenSymbol": "APPLE",
+          "tokenAmount": "5058082385862769.053021126"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "18.26401942630705667"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x883f7d0203dd62f4953b421a9f2881c9130b3e90",
+      "totalLiquidity": 684.9748536509281,
+      "volume24h": 14.401250988599713,
+      "fee24h": 0.04320375296579914,
+      "tokens": [
+        {
+          "tokenAddress": "0x204d4ea57afe0584b09147424c2d4047ed37afc5",
+          "tokenSymbol": "oecdog",
+          "tokenAmount": "244540780382.233578790954674113"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "342.487426825464083237"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x65b4174576aad36c658569c840aed29a45c22747",
+      "totalLiquidity": 1077.4105143135428,
+      "volume24h": 9.798697451544285,
+      "fee24h": 0.029396092354632856,
+      "tokens": [
+        {
+          "tokenAddress": "0x58fad774885341bcd292490226247550b106e9ef",
+          "tokenSymbol": "OKTMOON",
+          "tokenAmount": "241305446049598.653463135"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "5.848467413564327481"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x5ad9a236b5a2a12f73bcec192acd34b04b3ad9b1",
+      "totalLiquidity": 5.442309816056582,
+      "volume24h": 8.11873885954222,
+      "fee24h": 0.024356216578626657,
+      "tokens": [
+        {
+          "tokenAddress": "0x0a3c69b510ea47624ee4d4c5b630ae06cd33eb73",
+          "tokenSymbol": "SXC",
+          "tokenAmount": "123.531860850872945174"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "5.442309816056581923"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x9a81fa07c3f9f04d36e2640575184969dac66139",
+      "totalLiquidity": 10.935777779520963,
+      "volume24h": 5.755865495415492,
+      "fee24h": 0.017267596486246477,
+      "tokens": [
+        {
+          "tokenAddress": "0x5697f466c77f165e26302d77f401aaf0d675ed6e",
+          "tokenSymbol": "BabyORGNFTO",
+          "tokenAmount": "22706723.284567224339182149"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.113526305446447996"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x4ace89ae10dccc6fbfeeb514dc4669d1fc16d53d",
+      "totalLiquidity": 9.604290897788673,
+      "volume24h": 5.561917222228658,
+      "fee24h": 0.016685751666685972,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "9.604290897788673018"
+        },
+        {
+          "tokenAddress": "0xbbec772ddc4540e3dbff2ed986161a206c4c3c25",
+          "tokenSymbol": "RCOKT",
+          "tokenAmount": "59896762809.463847356"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xacf2be416cd59387e234b120abfb50c1d282fef4",
+      "totalLiquidity": 5.344484178171321,
+      "volume24h": 4.031261895603166,
+      "fee24h": 0.012093785686809497,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "5.344484178171320454"
+        },
+        {
+          "tokenAddress": "0x5e4bd5ccb20fe33b9bcdb2e852803763e5771a57",
+          "tokenSymbol": "Banana",
+          "tokenAmount": "31310.471356797626682954"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x9e2a452eb7afc789296f42818be67b476816dbbb",
+      "totalLiquidity": 4.8896777269412555,
+      "volume24h": 2.150887099800812,
+      "fee24h": 0.006452661299402436,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "4.889677726941255566"
+        },
+        {
+          "tokenAddress": "0xd6836d3d475f7284ee6509aa9204efef0f018a20",
+          "tokenSymbol": "SXC",
+          "tokenAmount": "0.25406929470391478"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x4450aac63509995e6f6f89142c04bf5721d9e248",
+      "totalLiquidity": 0.008918566060139533,
+      "volume24h": 1.8038804197110494,
+      "fee24h": 0.005411641259133148,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.008918566060139533"
+        },
+        {
+          "tokenAddress": "0x8b381acd499d6b59e2c7f620035bb58035da09d2",
           "tokenSymbol": "SPX",
-          "tokenAmount": "59.460239330497340875"
+          "tokenAmount": "229195.514490439484665286"
         }
       ]
     },
     {
-      "poolAddress": "0x16e853fbbabf06ad6da9d2b8694735ef95b5cb58",
-      "totalLiquidity": 15132.700326573311,
-      "volume24h": 8673.372875007044,
-      "fee24h": 26.020118625021134,
+      "poolAddress": "0x26e3efaa180515470a0de02fed2cead07008e863",
+      "totalLiquidity": 0.00011934607877289377,
+      "volume24h": 0.8074634009149122,
+      "fee24h": 0.0024223902027447368,
       "tokens": [
         {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "40.366182260983598425"
-        },
-        {
-          "tokenAddress": "0x339dc60e47c3a9c7cea73144488b7f85b3a3ab8a",
-          "tokenSymbol": "TTI",
-          "tokenAmount": "7.389081843187830803"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x96b41867ba6fba777d49616d411e7ece27aedcf1",
-      "totalLiquidity": 46439354.648875915,
-      "volume24h": 1773.3862867467105,
-      "fee24h": 5.320158860240132,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "22687776.6333992434"
-        },
-        {
-          "tokenAddress": "0xb3f05d4979f00e4cf743ee35ccb4e27a9362f633",
-          "tokenSymbol": "OFI",
-          "tokenAmount": "317357.096129244727503897"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x70655792a8cc263f65c594ab40c2017623e7b860",
-      "totalLiquidity": 57574.5683980145,
-      "volume24h": 1508.3613953659842,
-      "fee24h": 4.525084186097953,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "81.926695091844882402"
-        },
-        {
-          "tokenAddress": "0x813d9ae3aa2925ac97c4bb70d1d1e0d7e106b280",
-          "tokenSymbol": "TPT",
-          "tokenAmount": "159.5385"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x5be4388352872f4a6ec488b273842a47a5f3b045",
-      "totalLiquidity": 4145945.29418241,
-      "volume24h": 342.06878289580345,
-      "fee24h": 1.0262063486874105,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "3486082.2167191443"
-        },
-        {
-          "tokenAddress": "0x97019205d81ed9302f349f18116fe3ddec37d384",
-          "tokenSymbol": "KST",
-          "tokenAmount": "703797.70603546010967007"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xead4758c1ea4f9674fedba551cf3b8c82bb246d6",
-      "totalLiquidity": 54940.676272286415,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "168.472502616433903826"
-        },
-        {
-          "tokenAddress": "0xb678064be6c9cb496186b5d48d1ad1f8b2cf07d9",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "519.048688892238910724"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x45ffa92f4648f51a34a28833d4fdb6164e2a2b8a",
-      "totalLiquidity": 8747781.671794325,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x6d99c45e44889c35749002fc5c7a9003977d8502",
-          "tokenSymbol": "GAS2",
-          "tokenAmount": "1566.930440068509792305"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "4380805.7543881652"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfe9314c45f53d3b710a59f1def65b50a297e2c7f",
-      "totalLiquidity": 20014006.152114484,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xae3938b243c9c46f4dbb592dde643bd35b1b0ca1",
-          "tokenSymbol": "GAC2",
-          "tokenAmount": "1665.926766208473439381"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "10232201.0886259256"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x80bb556b179ac96c6ae0df54d9cc678ae6037cad",
-      "totalLiquidity": 1511575.7321249505,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x9a5507f629eaf882659291664c01959433110498",
-          "tokenSymbol": "OHI",
-          "tokenAmount": "32240.735998244099486385"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "759728.6131889729"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc58069dce6ed21f75271c204a4971f57e5c2c3ba",
-      "totalLiquidity": 1220595.7928664763,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "811537.0025992653"
-        },
-        {
-          "tokenAddress": "0x9a5507f629eaf882659291664c01959433110498",
-          "tokenSymbol": "OHI",
-          "tokenAmount": "25825.438109605700249595"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x92097ad3a02627054c0faf2265993a8fdd88ad4c",
-      "totalLiquidity": 356845.2083713022,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xb678064be6c9cb496186b5d48d1ad1f8b2cf07d9",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "3498.134435498117984058"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "180245.3298032698"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x3da58b6b18d90ef006d01bd5fa256d9e54583930",
-      "totalLiquidity": 1256.6035500447267,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xcf0e1700b3e52383caf4a743aa9d38cbdfaebd1a",
-          "tokenSymbol": "ADAM",
-          "tokenAmount": "26811995.85149806"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "642.0214521022"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x4d38b0ce180e4e1df9801809786c7f6b8467d46b",
-      "totalLiquidity": 14182782.285747694,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "35435.272365683617061141"
-        },
-        {
-          "tokenAddress": "0xae3938b243c9c46f4dbb592dde643bd35b1b0ca1",
-          "tokenSymbol": "GAC2",
-          "tokenAmount": "862.269692847124629304"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfaf8c1caa047851e3e7c52f721c8716e2b87246a",
-      "totalLiquidity": 2116894.2532613943,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "4067.212665815630166994"
-        },
-        {
-          "tokenAddress": "0xacd122365b3fa0217ea0af0caa9cf1602b175a9e",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "7368.665992522580592868"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x44ec96dd159b88e44926893bd752e6f70fba0080",
-      "totalLiquidity": 2285213.337567089,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xacd122365b3fa0217ea0af0caa9cf1602b175a9e",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "8155.14625010494969462"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "1167909.4322794731"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x0d03e516a528946f554781d460063620c5c8c185",
-      "totalLiquidity": 593390.1766659813,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "1066.065958787795275426"
-        },
-        {
-          "tokenAddress": "0x8757827b51bbc316fafb172776a0c3443ccb65a8",
-          "tokenSymbol": "OKL",
-          "tokenAmount": "0.000009755598704699"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xa04ffbddddc797d163aed250e786108eaa8fb010",
-      "totalLiquidity": 2223893.5060642934,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "1078501.6804059985"
-        },
-        {
-          "tokenAddress": "0x72f8fa5da80dc6e20e00d02724cf05ebd302c35f",
-          "tokenSymbol": "DOTK",
-          "tokenAmount": "11528.8956721359"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xb14f377f8a887ee2d9f1c7d6fddd9e8c6654f29b",
-      "totalLiquidity": 2375143.370285677,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "5974.711316940020873894"
-        },
-        {
-          "tokenAddress": "0x6d99c45e44889c35749002fc5c7a9003977d8502",
-          "tokenSymbol": "GAS2",
-          "tokenAmount": "314.668653934302994132"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfaee7c8fdc5c648f1f303ab4916f6dbcbae5498c",
-      "totalLiquidity": 273368.1215185537,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x1c7bbca7c9df112adf499b112adf0572d8a24789",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "25.4327168317"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "137449.4823736873"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x38a7e294a44e0c350f28a9274f4eabf4f8ab8f29",
-      "totalLiquidity": 1724997.5477263199,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x81808cbf60e227e7020160465155d3cc4c3f1ea3",
-          "tokenSymbol": "SCS",
-          "tokenAmount": "16743.0325454409"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "881864.57160008"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x89e5fc128f1ae6cbd9780f0eb5042bcc6724c790",
-      "totalLiquidity": 15510470.112473752,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x802ce97f4ed98a43d7730b1968cc1d57150786f4",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "19088.6977605006"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "7917941.8636372932"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xe0eb467fcfc1752b026b751f6339bd0a37e053b6",
-      "totalLiquidity": 10478739.101006562,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "4365448.4959325431"
-        },
-        {
-          "tokenAddress": "0xd616388f6533b6f1c31968a305fbee1727f55850",
-          "tokenSymbol": "LTCK",
-          "tokenAmount": "17248.4555237068"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xed2caa212717986b50791e64041e13af643f76ed",
-      "totalLiquidity": 40648.56963716188,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xaff17ba066ff652d2d207a7d81313180597e81d8",
-          "tokenSymbol": "SCS",
-          "tokenAmount": "31.9788846043"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "20413.9939211185"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xad1426405febe7abb207fe0225c21f9a39634eb1",
-      "totalLiquidity": 3968.656931178918,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "5.904967083724365266"
-        },
-        {
-          "tokenAddress": "0x6286afd419f36f60d3757da7b66e8ef771f71681",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "4.98994949423319653"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xcadafe057573c9fe7614da17aa087e0a830d8c51",
-      "totalLiquidity": 364.8037440798727,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "0.759404489007877731"
-        },
-        {
-          "tokenAddress": "0x802ce97f4ed98a43d7730b1968cc1d57150786f4",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "0.3381347845"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x96114677cde5f3cb4a106c773c409d7b9bb1a251",
-      "totalLiquidity": 15.826312810315375,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xa92ce60db2563076312e4e5417185c3fa2d4aff8",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "15.4718200007"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "17.217412296"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x09c574fca59c0a094661bb65c60fb0835b808b4b",
-      "totalLiquidity": 6.978368964494624,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x5aa6ba33d1b6d76dcbbad643da269bfc83853cbe",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "2.6613768133"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "6.2401253226"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0x299b631c528331c42e841bdf66c39ee2420c0ee4",
-      "totalLiquidity": 21.432209012592722,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x05c8e81d88e8d226fb7811c5cee97b165a82795f",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "12.750194186053909462"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "22.706977674"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xc8457354a87da996a7170c180c27cc137bb4653f",
-      "totalLiquidity": 2.132315489803065,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x1d6cf73d8183f91cdc2c69842afd3ca61468dc30",
-          "tokenSymbol": "SCS",
-          "tokenAmount": "1.3328265655"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "1.9065137213"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xff3350c26fa8038fe5876b029efb1cc7ec1248eb",
-      "totalLiquidity": 0.9691103636436308,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xd7114ca7868920c9e875b6a54f181b5cc1b0ff3a",
-          "tokenSymbol": "SCC",
-          "tokenAmount": "1"
-        },
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "1"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfdf16d2f3a19c15272b8a5ba53bbc176c1d372cc",
-      "totalLiquidity": 1.0599828519432734e-10,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
-          "tokenSymbol": "USDC",
-          "tokenAmount": "0.0000000001"
-        },
-        {
-          "tokenAddress": "0x9936bca1ee17d0fb333442881bf29bd7cb528f22",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "0.000000000001507387"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfd25337fba0b45d6d672288e4ed31be55d583963",
-      "totalLiquidity": 121.89579037552778,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
-          "tokenSymbol": "WOKT",
-          "tokenAmount": "0.533544373934578062"
-        },
-        {
-          "tokenAddress": "0x24e150093838b3f1737c6481016f247fbfface4b",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "61.93489489"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfcb2abf2c41fa3e34386a41be654da702bfc5e86",
-      "totalLiquidity": 9.883829748572555,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "10"
-        },
-        {
-          "tokenAddress": "0xea18e4d4a1ef75409423c314b682b85e18336120",
-          "tokenSymbol": "TT",
-          "tokenAmount": "10"
-        }
-      ]
-    },
-    {
-      "poolAddress": "0xfc678de152f0b2af45e95f1e718e0ff59cc39b3b",
-      "totalLiquidity": 1907.280939783532,
-      "volume24h": 0,
-      "fee24h": 0,
-      "tokens": [
-        {
-          "tokenAddress": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+          "tokenAddress": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
           "tokenSymbol": "BTCK",
-          "tokenAmount": "0.0190159402"
+          "tokenAmount": "0.000000000015030176"
         },
         {
-          "tokenAddress": "0xacd122365b3fa0217ea0af0caa9cf1602b175a9e",
-          "tokenSymbol": "AFI",
-          "tokenAmount": "10.529152802152989636"
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.000001269853416707"
         }
       ]
     },
     {
-      "poolAddress": "0xfbccbeb8bc591be7de777bfbfea09c98faa1669f",
-      "totalLiquidity": 0.0047231915256097014,
-      "volume24h": 0,
-      "fee24h": 0,
+      "poolAddress": "0xa25af66802bd4afec2fdbdd0db7410f17c4bb2f3",
+      "totalLiquidity": 26.55631023826803,
+      "volume24h": 0.6465615860679463,
+      "fee24h": 0.001939684758203839,
       "tokens": [
         {
-          "tokenAddress": "0x812f200b59e504d71daeeb7363ee8f0103a018f8",
-          "tokenSymbol": "Love",
-          "tokenAmount": "0.000289157073655809"
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "26.556310238268028514"
         },
         {
-          "tokenAddress": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-          "tokenSymbol": "USDT",
-          "tokenAmount": "0.0047480681"
+          "tokenAddress": "0x758a8d89e73c50a436cbc3e750db95c1c000e17b",
+          "tokenSymbol": "FomoPenguin",
+          "tokenAmount": "5350936867351.880843048"
         }
       ]
     },
     {
-      "poolAddress": "0xfb9c9b9b1950830891866d3b49898304714fac8f",
-      "totalLiquidity": 1361.2862417498993,
+      "poolAddress": "0x436d7cb5d406c7fe063a001ea6c7483482431bc1",
+      "totalLiquidity": 10.541353344512144,
+      "volume24h": 0.5719259620182129,
+      "fee24h": 0.0017157778860546387,
+      "tokens": [
+        {
+          "tokenAddress": "0x183c2cb09eb6f96235841a49f01a6736e3f194f3",
+          "tokenSymbol": "STBC",
+          "tokenAmount": "3845546945.80055249"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "10.541353344512144017"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x6a4e57d9b9f9b1ae4fef5b9d79f97cecd0238c71",
+      "totalLiquidity": 1.0671775323218964,
+      "volume24h": 0.19420745454519306,
+      "fee24h": 0.0005826223636355792,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "1.067177532321896443"
+        },
+        {
+          "tokenAddress": "0xdcac52e001f5bd413aa6ea83956438f29098166b",
+          "tokenSymbol": "USDK",
+          "tokenAmount": "1.120281686581292383"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x42e6eb032d7976ebdc82392e40d899bef4c59c3f",
+      "totalLiquidity": 2.599460988611433,
+      "volume24h": 0.09001720977835248,
+      "fee24h": 0.0002700516293350574,
+      "tokens": [
+        {
+          "tokenAddress": "0x4100da0875798a8fd2fe950e9b394d6c58ea92c7",
+          "tokenSymbol": "REDFEG🦍",
+          "tokenAmount": "329344236.958963124471272694"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.028877377948215133"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xae05a94f37248601eed11012c8a14f3cf34d3d91",
+      "totalLiquidity": 1.8399950159152516,
+      "volume24h": 0.07707382475159363,
+      "fee24h": 0.00023122147425478091,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.898901579261235616"
+        },
+        {
+          "tokenAddress": "0xbb25d219cbf8963ec9b8d4e01361fb529e49263e",
+          "tokenSymbol": "OKMoon",
+          "tokenAmount": "2494206373.543707754"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xcf4f3159777245d20e09d1c314945af9ba9eab2a",
+      "totalLiquidity": 0.2857400754799813,
+      "volume24h": 0.06612900488903506,
+      "fee24h": 0.0001983870146671052,
+      "tokens": [
+        {
+          "tokenAddress": "0x370ae13e9d31545431efed144daae5cb0416642b",
+          "tokenSymbol": "ENU",
+          "tokenAmount": "84889.62242288"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.003052331526051061"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb8f6454d9a5d5f1fa5a0f98cb9ac25716046b056",
+      "totalLiquidity": 0.000005474941642664,
+      "volume24h": 0.0022774316851155163,
+      "fee24h": 0.000006832295055346549,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.000005474941642664"
+        },
+        {
+          "tokenAddress": "0x9d7b97e2d8447eddef59f8a6517db6470c6bfc67",
+          "tokenSymbol": "FLUX",
+          "tokenAmount": "14.579391016309510204"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x10c28d7cd20bea28e0158fc9ed0430797385e76c",
+      "totalLiquidity": 3.1080922068e-7,
+      "volume24h": 0.0007800014650456433,
+      "fee24h": 0.00000234000439513693,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.00000031080922068"
+        },
+        {
+          "tokenAddress": "0x693ff5837c86d49442cdb5dc44b811e01b3a5ae3",
+          "tokenSymbol": "Baby Cherry",
+          "tokenAmount": "53492417701.968457111665892044"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x34944d8a866d4d626498e827908a578e1a50bb17",
+      "totalLiquidity": 0.00042909360635399264,
+      "volume24h": 0.00009642999293646426,
+      "fee24h": 2.892899788093928e-7,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.000004611805295074"
+        },
+        {
+          "tokenAddress": "0xdf54e475f1f40a6cf52d7ea8632086ab8bfb5d09",
+          "tokenSymbol": "LKC",
+          "tokenAmount": "1905229.589295102"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x026137fd908a7360808bee6cf7db66f0a179156b",
+      "totalLiquidity": 14.238503745735283,
       "volume24h": 0,
       "fee24h": 0,
       "tokens": [
         {
-          "tokenAddress": "0x20398de20cbc7b5305c84fda8cf1502939cd0a63",
-          "tokenSymbol": "GAC",
-          "tokenAmount": "2788.926097677230564202"
+          "tokenAddress": "0x103c1258fa79001b491f807976432accfc8ef8e3",
+          "tokenSymbol": "BND",
+          "tokenAmount": "1911620309.48628"
         },
         {
-          "tokenAddress": "0x24e150093838b3f1737c6481016f247fbfface4b",
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
           "tokenSymbol": "USDT",
-          "tokenAmount": "21.61027286"
+          "tokenAmount": "14.238503745735282622"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb78be097996eee5458b66b1003b3e100f7452d0a",
+      "totalLiquidity": 2.2513328504612455,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x7e9d3e96b4fc0e8e194e24feaa9b2e61ca5221f3",
+          "tokenSymbol": "starxunumberone",
+          "tokenAmount": "0.567505344063264167"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.012486801082984047"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xc86e0e2d458a9562ab499a78a2974b5fa2f38e25",
+      "totalLiquidity": 0.48935416778400154,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x50d902a6fbf1d08b4cdda4c60c5ed84779ce6ffe",
+          "tokenSymbol": "OKMoon ",
+          "tokenAmount": "165013785614.026151145"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.004229583035914521"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x7fa76588cdaea3c2637a90775b86034b39f483a8",
+      "totalLiquidity": 2004.075263486011,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "1002.037631743005492253"
+        },
+        {
+          "tokenAddress": "0x41fde3a546554067c91568acb13c670a49d63811",
+          "tokenSymbol": "MIMI",
+          "tokenAmount": "76906614656.195103561221356725"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x7cbc6ff766dadabe36e98a34e96d6e7928d2821b",
+      "totalLiquidity": 0.5634418237868988,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.005262590156674659"
+        },
+        {
+          "tokenAddress": "0xe289b411a34b7530f0f9e656928d747e6c5f9435",
+          "tokenSymbol": "OKTMOON",
+          "tokenAmount": "2509818163698.800170048"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb14abc3320149c43ce130c810e43d506ee4e95fa",
+      "totalLiquidity": 0.6891436596529165,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.344571829826458216"
+        },
+        {
+          "tokenAddress": "0x809aebaf3df7872e1174ae681f8f6f1f3bb4d7da",
+          "tokenSymbol": "KLT",
+          "tokenAmount": "0.500171375616772675"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x731d2275b4eae3df4e7ae7d1623d25ce46746b82",
+      "totalLiquidity": 0.6803784338560023,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.003080017001868458"
+        },
+        {
+          "tokenAddress": "0xd492742005e073a65e50574aa294f0dd69775abe",
+          "tokenSymbol": "Okrise",
+          "tokenAmount": "86967539"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x2d7a0d46b220999ed3d24106e64d1eee0b441971",
+      "totalLiquidity": 850.1066983550212,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "425.053349177510594089"
+        },
+        {
+          "tokenAddress": "0x862d2b0edda8d1313001a7961a239f6186222be7",
+          "tokenSymbol": "OC",
+          "tokenAmount": "118995910287310.2918753651561467"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x83878e84c5c3a9e1f1d27350993eca541d0f36d6",
+      "totalLiquidity": 2.628302023807433,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x54570e30f94bac9eb7682f44d056962f0975e81f",
+          "tokenSymbol": "PLUSOKT",
+          "tokenAmount": "48692736.596539809636807748"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.012084187870156894"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xf88d4bbafc54824cbc6f4be80b4da33f8acdf437",
+      "totalLiquidity": 0.500830647172695,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x1b4e29258745f42a7959544a07094d6ea53cc306",
+          "tokenSymbol": "PGO",
+          "tokenAmount": "853.197823199541719386"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.002724175716246435"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x276ad74efb19a97254e33d0155ea862ef1b653d4",
+      "totalLiquidity": 0.5236459561409988,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.523645956140998846"
+        },
+        {
+          "tokenAddress": "0x433ae40a9d61971e901612638347ba228ae4a26f",
+          "tokenSymbol": "SMT",
+          "tokenAmount": "2684051.141003124471787546"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x0e673d272bec4e0282e932cede14ee6d1c1a849f",
+      "totalLiquidity": 0.2565892618377745,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x472176ebe8bb89ba5f2d31364f4f55f8abaeaadc",
+          "tokenSymbol": "BabyORGNFT",
+          "tokenAmount": "760409.208867692078418095"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.002168772245802839"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x86aaaad35f090efb513aeb378ad8f3ab3d337ece",
+      "totalLiquidity": 11.360063756283067,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "11.360063756283067408"
+        },
+        {
+          "tokenAddress": "0xabd0209b609bcce72b220c5150e8cfd9e1192a9f",
+          "tokenSymbol": "HMM",
+          "tokenAmount": "131454.927178862372284412"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xe10e635b0f7d3fd5bce40533a642b2841eb57717",
+      "totalLiquidity": 72.4041257258203,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "72.404125725820299616"
+        },
+        {
+          "tokenAddress": "0x642ac91475a1c735487005769db7fd016c7df983",
+          "tokenSymbol": "KDog",
+          "tokenAmount": "102680826460047.564359483321699941"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x294b6a643a1fc37f931a3053d4ebe4b704236b95",
+      "totalLiquidity": 3685.4548217874158,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "1842.727410893707872451"
+        },
+        {
+          "tokenAddress": "0x57c0eca48b1fb5fb9aeb2c0863dd43eb72fbfee8",
+          "tokenSymbol": "ORG",
+          "tokenAmount": "5361.099129865696591854"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0x7dddf39904173dd303ba3964ca5df34142970a2c",
+      "totalLiquidity": 1e-18,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "0.000000000000000001"
+        },
+        {
+          "tokenAddress": "0x3e3ac5043afd60992f1eb6a3a140db052997f766",
+          "tokenSymbol": "SXC",
+          "tokenAmount": "0.124390828232584075"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xb64533d4d268edefe0d1eba86538bd54d87d8661",
+      "totalLiquidity": 3.104099539503277,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x2e699bcaeb4f4f1018a1fb6733073a4844989809",
+          "tokenSymbol": "Opig",
+          "tokenAmount": "704818552280.462079749229762293"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.028673177400160201"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xfd7bdbb5bc6bcb5c533d0d9f4a11a8fd31165cda",
+      "totalLiquidity": 17.29358569943334,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "8.646792849716670122"
+        },
+        {
+          "tokenAddress": "0xe57429070258c13cf79bb4c53a6ed95cb5f9e784",
+          "tokenSymbol": "KILLER",
+          "tokenAmount": "0.00000000000000011"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xd29898385ac466b0b0ad2edaa8795c981a744bd0",
+      "totalLiquidity": 31.080099820122715,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x04982b4ed89581357a830f04dd838a0aa2342eda",
+          "tokenSymbol": "SPX",
+          "tokenAmount": "77784182201.50655564"
+        },
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "31.080099820122715678"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xd3dfc5b2487e958f17d6ddfd9d00a6fde9b2efcb",
+      "totalLiquidity": 59.54914627288616,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+          "tokenSymbol": "USDT",
+          "tokenAmount": "59.549146272886164943"
+        },
+        {
+          "tokenAddress": "0xdf54e475f1f40a6cf52d7ea8632086ab8bfb5d09",
+          "tokenSymbol": "LKC",
+          "tokenAmount": "200691086655.202113599"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xf24ee8911c1552dcf2bf3f89a59bc94baefb3fb1",
+      "totalLiquidity": 4.372533296190618,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x01b2cd244d05ae93f211d372ed3d6dac53de1b59",
+          "tokenSymbol": "Hash",
+          "tokenAmount": "7732823809.387875052"
+        },
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.040257999082301977"
+        }
+      ]
+    },
+    {
+      "poolAddress": "0xe358385af58cd9265315d6962435c7d79ade2191",
+      "totalLiquidity": 4.738043107758453,
+      "volume24h": 0,
+      "fee24h": 0,
+      "tokens": [
+        {
+          "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+          "tokenSymbol": "WOKT",
+          "tokenAmount": "0.042267930110576097"
+        },
+        {
+          "tokenAddress": "0xa01b5fcf17151254eedd9aee87f29584253d65c8",
+          "tokenSymbol": "okpig",
+          "tokenAmount": "655620120518683.260615255"
         }
       ]
     }
-  ]
+  ],
+  "pairCount": 308,
+  "totalVolumeUSD": 1139517280.7569144,
+  "kstPrice": "0.72"
 }

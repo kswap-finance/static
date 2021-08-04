@@ -1,0 +1,194 @@
+[
+  {
+    "symbol": "USDT-BTCK",
+    "tvl": 67436697.92705084,
+    "apy": 0.42946397945507736,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "USDT-ETHK",
+    "tvl": 85423471.8484081,
+    "apy": 0.33903600528501504,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "BTCK-ETHK",
+    "tvl": 114229417.86748323,
+    "apy": 0.2535391775055653,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "USDT-WOKT",
+    "tvl": 14290443.979833014,
+    "apy": 2.0266433075090253,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "WOKT-OKB",
+    "tvl": 13691954.868511805,
+    "apy": 1.692183939032168,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "USDT-OKB",
+    "tvl": 27678422.193742253,
+    "apy": 1.0463614020458538,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "USDT-KST",
+    "tvl": 4733370.125385017,
+    "apy": 14.68465734267782,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "WOKT-KST",
+    "tvl": 3560864.6063259193,
+    "apy": 19.51995541865458,
+    "type": "liquidity",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/liquidity"
+  },
+  {
+    "symbol": "WOKT",
+    "tvl": 18450217.31778614,
+    "apy": 0.40812660144316687,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "OKB",
+    "tvl": 22526764.947673053,
+    "apy": 0.2057046910754249,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "USDT",
+    "tvl": 26985956.82870361,
+    "apy": 0.12878535085592158,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "FILK",
+    "tvl": 8751014.978097,
+    "apy": 0.13238067915801574,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "BTCK",
+    "tvl": 32946958.471929785,
+    "apy": 0.10548457519465178,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "ETHK",
+    "tvl": 29736037.41183715,
+    "apy": 0.11687488383989864,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "LTCK",
+    "tvl": 10346441.571692161,
+    "apy": 0.11196751057793698,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "DOTK",
+    "tvl": 16965045.480688114,
+    "apy": 0.06828542295634688,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "KST",
+    "tvl": 3370404.173831243,
+    "apy": 8.592925702480256,
+    "type": "deposit",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#/farm/deposit"
+  },
+  {
+    "symbol": "USDT-BTCK",
+    "volume": 1.6491184298583276e+26,
+    "apy": 35.12377538046101,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  },
+  {
+    "symbol": "USDT-ETHK",
+    "volume": 1.755538460844917e+26,
+    "apy": 32.99458633235797,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  },
+  {
+    "symbol": "BTCK-ETHK",
+    "volume": 1.601828160793291e+26,
+    "apy": 36.1607235556631,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  },
+  {
+    "symbol": "USDT-WOKT",
+    "volume": 1.8339323185435463e+26,
+    "apy": 31.584189187594095,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  },
+  {
+    "symbol": "WOKT-OKB",
+    "volume": 1.54356547627124e+26,
+    "apy": 37.525628939334986,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  },
+  {
+    "symbol": "USDT-OKB",
+    "volume": 1.573942802247484e+26,
+    "apy": 36.801378819746134,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  },
+  {
+    "symbol": "USDT-KST",
+    "volume": 7.618357369175844e+25,
+    "apy": 12.67186229682576,
+    "type": "trading",
+    "rewardToken": "KST",
+    "link": "https://app.kswap.finance/#farm/trade"
+  }
+]

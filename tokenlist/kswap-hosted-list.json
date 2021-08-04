@@ -1,137 +1,89 @@
 {
   "name": "KSwap Hosted List",
-  "timestamp": "2021-03-29T16:57:10.982Z",
+  "timestamp": "2021-08-03T16:57:10.982Z",
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 0,
-    "patch": 24
+    "patch": 30
   },
   "tags": {},
-  "logoURI": "https://static.kswap.finance/tokenlist/logos/KST.png",
+  "logoURI": "https://static.kswap.io/tokenlist/logos/KST.png",
   "keywords": [
     "kswap",
     "default"
   ],
   "tokens": [
     {
-      "chainId": 65,
-      "address":"0xb4df33f15bd6878c6a25ed73e088c9d89b35b2b8",
-      "name": "ORG",
-      "symbol": "ORG",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xb4df33f15bd6878c6a25ed73e088c9d89b35b2b8.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0x339dc60e47c3a9c7cea73144488b7f85b3a3ab8a",
-      "name": "TTI",
-      "symbol": "TTI",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x339dc60e47c3a9c7cea73144488b7f85b3a3ab8a.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0x813d9ae3aa2925ac97c4bb70d1d1e0d7e106b280",
-      "name": "TokenPocket Token",
-      "symbol": "TPT",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x813d9ae3aa2925ac97c4bb70d1d1e0d7e106b280.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0xb3f05d4979f00e4cf743ee35ccb4e27a9362f633",
-      "name": "OFI.CASH",
-      "symbol": "OFI",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xb3f05d4979f00e4cf743ee35ccb4e27a9362f633.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5",
-      "name": "Tale Oracle",
-      "symbol": "KTO",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x0bbf9d0139a6a36b623656df5eefbba6b04c70b5.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0x17faca6174a52a365e343707fa14239ae2df660c",
-      "name": "GAP Share",
-      "symbol": "GAPS",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x17faca6174a52a365e343707fa14239ae2df660c.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0x600d553093999655962264daa68704e213acb698",
-      "name": "GAP Cash",
-      "symbol": "GAC",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x600d553093999655962264daa68704e213acb698.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0xe667d8bd182d165d2e71cf72315bd117f6940094",
-      "name": "Lemond Money",
-      "symbol": "LEMD",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xe667d8bd182d165d2e71cf72315bd117f6940094.png"
-    },
-    {
-      "chainId": 65,
-      "address": "0x29728d6a1d3b07a1906ed2efce37d7714b0c7eba",
-      "name": "SupremeX",
+      "chainId": 66,
+      "address": "0x0a3c69b510ea47624ee4d4c5b630ae06cd33eb73",
+      "name": "SupremeX Token",
       "symbol": "SXC",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x29728d6a1d3b07a1906ed2efce37d7714b0c7eba.png"
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x0a3c69b510ea47624ee4d4c5b630ae06cd33eb73.jpg"
     },
     {
-      "chainId": 65,
-      "address": "0x9115d528ce681d862d9ab28714f8bd8d150c1261",
-      "name": "WePiggy",
-      "symbol": "WPC",
+      "chainId": 66,
+      "address": "0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f",
+      "name": "ORANGE",
+      "symbol": "ORG",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x9115d528ce681d862d9ab28714f8bd8d150c1261.png"
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f.png"
     },
     {
-      "chainId": 65,
-      "address": "0x64542576ae2e77d847439cca981d86e301fdbae7",
-      "name": "Spiral X",
-      "symbol": "SPX",
+      "chainId": 66,
+      "address": "0xd0c6821aba4fcc65e8f1542589e64bae9de11228",
+      "name": "Flux Protocol",
+      "symbol": "FLUX",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x64542576ae2e77d847439cca981d86e301fdbae7.png"
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0xd0c6821aba4fcc65e8f1542589e64bae9de11228.jpeg"
     },
     {
-      "chainId": 65,
-      "address": "0xcf93f0c5effa8761481e9de2151664f62e77e152",
-      "name": "AntFarm Finance",
-      "symbol": "AFI",
-      "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xcf93f0c5effa8761481e9de2151664f62e77e152.png"
+      "chainId": 66,
+      "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
     },
     {
-      "chainId": 65,
-      "address": "0xf80fbd5f98fb2db09131ff9034d24258d5efa364",
-      "name": "SuperBond",
-      "symbol": "SCB",
+      "chainId": 66,
+      "address": "0x39071d9e7a52e8685f1385d6fa17babfc58ce9c3",
+      "name": "KLend",
+      "symbol": "KLT",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0xf80fbd5f98fb2db09131ff9034d24258d5efa364.png"
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x39071d9e7a52e8685f1385d6fa17babfc58ce9c3.png"
     },
     {
-      "chainId": 65,
-      "address": "0x5873e72d1c8f23b3ed2cee988d1e679425fdef4c",
-      "name": "SuperCash",
-      "symbol": "SCC",
+      "chainId": 66,
+      "address": "0xfcd4d15f09548cd90efcaf0b1d9531bba670b7b1",
+      "name": "Conflux",
+      "symbol": "CFXK",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x5873e72d1c8f23b3ed2cee988d1e679425fdef4c.png"
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0xfcd4d15f09548cd90efcaf0b1d9531bba670b7b1.png"
     },
     {
-      "chainId": 65,
-      "address": "0x679022682bc5928c2fd179e98f56843189f04a94",
-      "name": "SuperShare",
-      "symbol": "SCS",
+      "chainId": 66,
+      "address": "0x82ce2bf9729d92d5b6aa34031b1c7c68ce0adab9",
+      "name": "PokemonGO",
+      "symbol": "PGO",
       "decimals": 18,
-      "logoURI": "https://static.kswap.finance/tokenlist/logos/0x679022682bc5928c2fd179e98f56843189f04a94.png"
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x82ce2bf9729d92d5b6aa34031b1c7c68ce0adab9.jpg"
+    },
+    {
+      "chainId": 66,
+      "address": "0x5ce01aa1528a6a0c8edecc4cee909f0a24cf54de",
+      "name": "BoringDAO",
+      "symbol": "BORING",
+      "decimals": 18,
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x5ce01aa1528a6a0c8edecc4cee909f0a24cf54de.png"
+    },
+    {
+      "chainId": 66,
+      "address": "0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4",
+      "name": "Wing Finance",
+      "symbol": "WING",
+      "decimals": 9,
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4.png"
     }
   ]
 }

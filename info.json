@@ -3,7 +3,7 @@
   "synopsisEN": "KSwap is a decentralized trading product based on the concept of automatic market making. It is committed to providing users with token exchange, liquidity, transaction mining and other services in the OKEXCHAIN ecosystem. KSwap puts security in the first place. Pay the most attention to user experience. Provide customers with diverse assets, safe and reliable smooth transactions.",
   "synopsisCN": "KSwap 是一款基于资金池自动做市理念的去中心化交易产品，致力于在 OKEXCHAIN 生态中为用户提供代币兑换、流动性、交易挖矿等服务，KSwap 将安全放在第一位，最注重用户体验，为客户提供资产多样、安全可信的流畅交易。",
   "website": "https://kswap.finance",
-  "logo": "https://static.kswap.finance/logos/logo90x90.png",
+  "logo": "https://static.kswap.io/logos/logo90x90.png",
   "twitter": "https://twitter.com/kswap_finance",
   "medium": "https://kswap-finance.medium.com",
   "telegram": "https://t.me/kswap_finance",
@@ -14,6 +14,6 @@
   "token": {
     "symbol": "KST",
     "decimals": 18,
-    "address": "0x97019205d81eD9302F349f18116FE3dDec37d384"
+    "address": "0xab0d1578216A545532882e420A8C61Ea07B00B12"
   }
 }
