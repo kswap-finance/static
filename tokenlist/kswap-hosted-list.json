@@ -84,6 +84,30 @@
       "symbol": "WING",
       "decimals": 9,
       "logoURI": "https://static.kswap.io/tokenlist/logos/0x7a47ab305b8a2a3f4020d13fa9ef73cddcc0e7d4.png"
+    },
+    {
+      "chainId": 66,
+      "address": "0x3aa2cece4fd9b45a12c032871178a9d1c9694f07",
+      "name": "DeFiFox Coin",
+      "symbol": "DFOX",
+      "decimals": 18,
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x3aa2cece4fd9b45a12c032871178a9d1c9694f07.png"
+    },
+    {
+      "chainId": 66,
+      "address": "0x97b629387270efff239e9ffcbe476ea04d778453",
+      "name": "iDeFiFox Coin",
+      "symbol": "iDFOX",
+      "decimals": 18,
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x97b629387270efff239e9ffcbe476ea04d778453.png"
+    },
+    {
+      "chainId": 66,
+      "address": "0x81118943c298de2973f2abe4807cd915c26ca483",
+      "name": "GRAPE STABLE Coin",
+      "symbol": "GRAPE",
+      "decimals": 18,
+      "logoURI": "https://static.kswap.io/tokenlist/logos/0x81118943c298de2973f2abe4807cd915c26ca483.png"
     }
   ]
 }
