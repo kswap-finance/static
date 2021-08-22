@@ -9,5 +9,5 @@ about: whitelist
 
 ## Audit Report Link
 
-## Liquidity Pool Supply with TVL More Than 200,000 USDT
+## Liquidity Pool Supply with TVL More Than 50,000 USDT
 
